@@ -1,2 +1,1 @@
-# kaushik88.github.io
-Personal website
+# Kaushik Rangadurai Blog

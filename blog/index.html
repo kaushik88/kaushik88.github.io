@@ -1,0 +1,14 @@
+---
+layout: default
+title: "Kaushik Rangadurai: Blog"
+nav_item: blog
+nav_item_writing: all
+include_comments:
+  count: true
+---
+
+{% include writing_heading.html title="Blog" %}
+{% for post in paginator.posts %}
+  {% include post-outline.html post=post %}
+{% endfor %}
+{% include pagination.html %}

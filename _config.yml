@@ -1,0 +1,58 @@
+# Website settings
+baseurl: "/"
+
+# Internal nav
+nav:
+  main:
+    blog: "/blog"
+    home: "/"
+  blog:
+    all: "/blog"
+    popular: "/blog/popular"
+    tags: "/blog/tags"
+    rss: "/feed.xml"
+
+# Bio settings
+name: "Kaushik Rangadurai"
+slogan: "Code. Learn. Explore"
+description: "Insert Description Here"
+thumbnail_path: "kaushik.jpg"
+
+# URLs
+contact_urls:  
+  twitter: 
+    url: "https://twitter.com/kaushik_nov20"
+    label: "Twitter"
+    icon: "twitter-square"
+    username: "@kaushik_nov20"
+  linkedin: 
+    url: "https://www.linkedin.com/in/krangadurai"
+    label: "LinkedIn"
+    icon: "linkedin-square"
+  facebook: 
+    url: "https://www.facebook.com/kaushik.me88"
+    label: "Facebook"
+    icon: "facebook-square"
+  github: 
+    url: "https://github.com/kaushik88/"
+    label: "GitHub"
+    icon: "github-square"
+  email: 
+    url: "mailto:kaushik.me88@gmail.com"
+    label: "Email"
+    icon: "envelope-square"
+
+# Jekyll build settings
+paginate: 10
+paginate_path: "/blog/page:num"
+permalink: "/blog/:year/:month/:day/:title"
+sass:
+  sass_dir: "/assets/css"
+  style: :compressed  
+highlighter: pygments
+timezone: 'America/Los_Angeles'
+
+# Plugins (GitHub Pages only support a few)
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap

@@ -1,0 +1,16 @@
+---
+layout: default
+title: "Kaushik Rangadurai: Popular Posts"
+nav_item: blog   
+nav_item_writing: popular 
+include_comments:
+  count: true
+---
+
+{% include writing_heading.html title="Popular posts" %}
+
+{% for post in site.posts %}
+  {% if post.add_to_popular_list %}  
+    {% include post-outline.html post=post %}
+  {% endif %}
+{% endfor %}
