@@ -11,6 +11,7 @@ nav:
     popular: "/blog/popular"
     tags: "/blog/tags"
     rss: "/feed.xml"
+    archive: "/blog/archive"
 
 # Bio settings
 name: "Kaushik Rangadurai"
