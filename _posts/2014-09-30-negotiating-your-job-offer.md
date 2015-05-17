@@ -7,7 +7,11 @@ thumbnail_path: blog/personal/negotiation.jpeg
 add_to_popular_list: true
 --- 
 
-A few years ago, a colleague of mine recommended me to watch this video on Negotiating your Job Offer by Deepak Malhotra at Harvard Business School. Even though I wasn’t looking for a job, I watched it and I found a lot of interesting points — especially since I was new to negotiation. Over the last couple of months, I’ve recommended this video to a few of my friends regarding good resources on Job Offer Negotiations and I’ve heard positive feed-backs as well. 
+A few years ago, a colleague of mine recommended me to watch this video on Negotiating your Job Offer by Deepak Malhotra at Harvard Business School. Even though I wasn’t looking for a job, I watched it and I found a lot of interesting points — especially since I was new to negotiation. 
+
+{% include iframe-figure.html url="//www.youtube.com/embed/km2Hd_xgo9Q" caption="Deepak Malhotra's talk on Negotiation" link="https://www.youtube.com/watch?v=km2Hd_xgo9Q" %}
+
+Over the last couple of months, I’ve recommended this video to a few of my friends regarding good resources on Job Offer Negotiations and I’ve heard positive feed-backs as well. 
 
 Below are my learning from this —
 
