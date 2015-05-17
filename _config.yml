@@ -4,6 +4,7 @@ baseurl: "/"
 # Internal nav
 nav:
   main:
+    archive: "/blog/archive"
     blog: "/blog"
     home: "/"
   blog:
@@ -12,6 +13,8 @@ nav:
     tags: "/blog/tags"
     rss: "/feed.xml"
     archive: "/blog/archive"
+  archive:
+    all: "/blog/archive"
 
 # Bio settings
 name: "Kaushik Rangadurai"
