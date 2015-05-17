@@ -2,7 +2,7 @@
 layout: post
 title: "Interviewing Experience"
 tags:
-- Learn
+- ThankYou
 - Interview
 thumbnail_path: blog/linkedin/linkedin.jpg
 add_to_popular_list: true
