@@ -20,3 +20,5 @@ During difficult times, a friend might come to you and share their thoughts so t
 2. Silverline their situation - While we tend to use this to cheer them up so that they can feel better but this seldom works - again you're not dealing with their situation.
 
 Instead, we could **take their perspective, recognize it as the truth and stay out of judgement** (sounds simple, isn't it?). Rarely can a response make the other person feel better but what can actually make them feel better is the connection, the friendship and **communicating** that you're there with them during this difficult time.
+
+This just made me realize how many times I've sympathized with a friend and wondered why they didn't feel better or why they felt I didn't understand their situation!
