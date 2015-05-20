@@ -3,6 +3,9 @@ layout: post
 title: "Mothers Day"
 tags:
 - ThankYou
+- Relationship
+categories:
+- Learn
 thumbnail_path: blog/personal/mother.jpg
 ---
 

@@ -2,8 +2,10 @@
 layout: post
 title: "Devil's Snare"
 tags:
-- Learn
 - Anxiety
+- Relationship
+categories:
+- Learn
 thumbnail_path: blog/personal/devils-snare.png
 ---
 

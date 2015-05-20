@@ -4,6 +4,8 @@ title: "Interviewing Experience"
 tags:
 - ThankYou
 - Interview
+categories:
+- Learn
 thumbnail_path: blog/linkedin/linkedin.jpg
 add_to_popular_list: true
 ---  

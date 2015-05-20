@@ -2,8 +2,10 @@
 layout: post
 title: "The 24 Hour Rule"
 tags:
-- Learn
+- Relationship
 - Sports
+categories:
+- Learn
 thumbnail_path: blog/sports/federer-small.jpeg
 add_to_popular_list: true
 ---  

@@ -2,8 +2,10 @@
 layout: post
 title: "Devil's Advocate"
 tags:
-- Learn
+- Books
 - Decisions
+categories:
+- Learn
 thumbnail_path: blog/personal/decisive.jpg
 ---
 

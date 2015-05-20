@@ -2,8 +2,9 @@
 layout: post
 title: "The Elephant and the Rider"
 tags:
+- Books
+categories:
 - Learn
-- Switch
 thumbnail_path: blog/personal/elephant-and-rider.jpeg
 add_to_popular_list: true
 ---

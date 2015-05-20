@@ -2,8 +2,9 @@
 layout: post
 title: "Hofstadter's Law"
 tags:
-- Learn
 - ProjectManagement
+categories:
+- Learn
 thumbnail_path: blog/manager/hofstadters-law.png
 add_to_popular_list: true
 ---  

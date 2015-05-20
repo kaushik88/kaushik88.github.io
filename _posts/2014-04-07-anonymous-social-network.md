@@ -3,6 +3,8 @@ layout: post
 title: "Anonymous Social Networks - The Good"
 tags:
 - Product
+categories:
+- Code
 thumbnail_path: blog/secret/secret-medium.png
 ---  
 

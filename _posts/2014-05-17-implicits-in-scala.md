@@ -2,8 +2,9 @@
 layout: post
 title: "Implicits In Scala"
 tags:
-- Code
 - Scala
+categories:
+- Code
 thumbnail_path: blog/linkedin/scala.jpeg
 ---  
 
