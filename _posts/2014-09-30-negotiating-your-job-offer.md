@@ -2,7 +2,7 @@
 layout: post
 title: "Negotiating Your Job Offer"
 tags:
-- Jobs
+- Interview
 categories:
 - Learn
 thumbnail_path: blog/personal/negotiation.jpeg
