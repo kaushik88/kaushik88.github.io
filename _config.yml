@@ -15,6 +15,8 @@ nav:
     archive: "/blog/archive"
   archive:
     all: "/blog/archive"
+  tags:
+    all: "/blog/tags"
 
 # Bio settings
 name: "Kaushik Rangadurai"
