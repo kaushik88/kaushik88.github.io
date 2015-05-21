@@ -4,6 +4,7 @@ baseurl: "/"
 # Internal nav
 nav:
   main:
+    tags: "/blog/tags"
     archive: "/blog/archive"
     blog: "/blog"
     home: "/"
