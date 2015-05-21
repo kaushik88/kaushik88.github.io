@@ -8,9 +8,7 @@ categories:
 thumbnail_path: blog/personal/github.png
 ---
 
-A few months ago, my [friend](http://kdheepak.com/) migrated his blog to github pages. At this time, I had just started to blog on [medium](http://medium.com/) and I didn't know if I had the discipline to continue it for a long time. After 10 blog posts in 10 weeks (not saying that this is a lot but definitely better than 0), I'm finally convinced to have my own blogging website.
-
-{% include figure.html path="blog/personal/github.png" alt="Github Pages" %}
+A few months ago, my [friend](http://kdheepak.com/) migrated his blog to github pages. At that time, I had just started to blog on [medium](http://medium.com/) and I didn't know if I had the discipline to continue it for a long time. After 10 blog posts in 10 weeks (not saying that this is a lot but definitely better than 0), I'm finally convinced to have my own blogging website.
 
 So, I called up my friend and he told me that getting started with Github pages and Jekyll (or Pelican that he was using) should take a **couple of hours** max (Thanks KD). So, after many hours of coding, tinkering with many designs and writing a blog post on [Hofstadter's law](http://kaushik88.github.io/blog/2015/05/15/hofstadter%27s-law/), I've finally got it up and running!
 
