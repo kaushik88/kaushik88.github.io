@@ -62,4 +62,4 @@ object Dollar {
 {% endhighlight %}
 
 
-Further Reading and Source Code— I’ve just touched the surface of implicits in Scala and there’s a lot more to it. Scala for the Impatient is a good book which would provide more information on this topic. Also, the source code for the examples described above can be found here.
+*Further Reading and Source Code* — I’ve just touched the surface of implicits in Scala and there’s a lot more to it. Scala for the Impatient is a good book which would provide more information on this topic.
