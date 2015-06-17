@@ -8,6 +8,6 @@ categories:
 thumbnail_path: blog/personal/petyrbaelish.jpg
 ---
 
-> "Sometimes those with most power have the lease grace."
+> "Sometimes those with the most power have the lease grace."
 
 {% include figure.html path="blog/personal/petyrbaelish.jpg" alt="Petyr Baelish" %}
