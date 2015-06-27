@@ -24,11 +24,14 @@ The loss was so shattering that, Federer went into a shell and didn't play anoth
 2. Wins the Qatar Open in 2012, the ABN Amro, Dubai Open, Indian Wells and the Madrid Open in 2012.
 3. Most importantly, **Wins the 2012 Wimbledon and becomes World No. 1 again.**
 
-The only reason why Federer is able to move on quickly is because he still loves what he does. He'll continue to play as long as he enjoys it and is able to compete at a high level. One can draw a similar parallel to Jobs coming back to Apple and introducing the iPod, iPhone and iPad after being fired from the company that he had started.
+The only reason why Federer is able to move on quickly is because he still loves what he does. He'll continue to play as long as he enjoys it and is able to compete at a high level. One can draw a similar parallel to Steve Jobs coming back to Apple and introducing the iPod, iPhone and iPad after being fired from the company that he had started.
 
-{% include figure.html path="blog/sports/federer.jpg" alt="Roger Federer" %}
+{% include figure.html path="blog/personal/Jobs.jpg" alt="Steve Jobs after his return to Apple" %}
+
 
 Federer lost in 5 sets to Nadal in the 2008 Wimbledon Final (the day he had turned mortal) but came back to win the Wimbledon next year. He again lost to Nadal in 2009 Australian Open Final in 5 sets that caused him to say "God, it's killing me" but came back to win the Australian Open in 2010. When Federer lost to Djokovic in last year’s Wimbledon final, many critics thought that he had missed his last opportunity to win an 18th major title. Fast forward 12 months and Federer’s chances seem even better **now** than last year. 
+
+{% include figure.html path="blog/sports/federer.jpg" alt="Roger Federer" %}
 
 Keep Calm and Roger That! #WimbledonFever #1DayToGo #excited 
 
