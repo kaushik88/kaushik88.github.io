@@ -5,7 +5,7 @@ tags:
 - Sports
 categories:
 - Learn
-thumbnail_path: blog/sports/federer-small.jpeg
+thumbnail_path: blog/sports/federer.jpg
 ---
 
 There are many reasons that are attributed to Federer's success - his talent, the ability to stay calm on the court and also his fitness. However, one reason that is often overlooked is how well he has handled his defeats. One of the reasons why Federer was able to win so much is that he was able to quickly move on from his losses and start winning again. Everyone (even the greatest, the happiest and the most successful) go through failures, losses or defeats in their lives . It is in these moments, that the champions distinguish themselves from the rest. This blog post is about one such incident. 
