@@ -16,4 +16,4 @@ Poker is a game where one needs to make decisions based on information. Sometime
 
 Always remember that the result or outcome is not in our hands - what we control is our decision! 
 
-{% include figure.html path="blog/personal/poker.jpg" alt="Poker Life Lessons" %}
+{% include figure.html path="blog/personal/poker.jpg" alt="Poker Life Lessons" %} 
