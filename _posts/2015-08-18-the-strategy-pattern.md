@@ -17,14 +17,13 @@ This is the first post in a series of blogposts on [Design Patterns](https://en.
 
 **Structure** 
 
-{% include figure.html path="blog/linkedin/strategy.gif" alt="Strategy Design Pattern" %}
-
 In this example, the *Client* calls the *Context* object. The *Context* object, gets an instance of the *Strategy* (either *ConcreteStrategy1* or *ConcreteStrategy2* or another *ConcreteStrategy*) object depending on some variable. If there is a new strategy, then just these 2 simple steps need to be done - 
 	
-	a. Add a new strategy object extending Strategy.
+1. Add a new strategy object extending Strategy.
+2. Update the logic in the Context to decide when this new ConcreteStrategy would be picked.
 
-	b. Update the logic in the Context to decide when this new ConcreteStrategy 
-	   would be picked.
+{% include figure.html path="blog/linkedin/strategy.gif" alt="Strategy Design Pattern" %}
+
 
 One way to achieve this behavior through simple code is by a simple if-else statement (or any other branching logic) - 
 
@@ -38,18 +37,16 @@ if(condition) {
 
 The disadvantage of this approach is that - 
 
-	1. If the logic that decides the algorithm is needed at multiple places, 
-		then the code has to be repeated.
-	2. More codebase reading for a new developer trying to add a new algorithm.
-
+1. If the logic that decides the algorithm is needed at multiple places, then the code has to be repeated.
+2. More codebase reading for a new developer trying to add a new algorithm.
 
 **Example**
 
-A Strategy defines a set of algorithms that can be used interchangeably. 
+A Strategy defines a set of algorithms that can be used interchangeably. Some examples where this can be applied - 
 
-Modes of transportation to an airport is an example of a Strategy. Several options exist such as driving one's own car, taking a taxi, an airport shuttle, a city bus, or a limousine service. All the modes perform the same function.
+1. Modes of transportation to an airport is an example of a Strategy. Several options exist such as driving one's own car, taking a taxi, an airport shuttle, a city bus, or a limousine service. All the modes perform the same function.
 
-Various compression or decompression algorithms is another example of a Strategy. Depending on certain factors, the Context can change the compression algorithm which will perform both the compress and decompress operations.
+2. Various compression or decompression algorithms is another example of a Strategy. Depending on certain factors, the Context can change the compression algorithm which will perform both the compress and decompress operations.
 
 **Code**
 
