@@ -8,7 +8,7 @@ categories:
 thumbnail_path: blog/linkedin/strategy.gif
 ---
 
-This is the first post in a series of blogposts on [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern).
+This is the first post in a series of blogposts on [Design Patterns](https://en.wikipedia.org/wiki/Software_design_pattern). The strategy pattern is one of the most commonly used patterns where various implementations of a single behavior exists and we want to decouple consumers of this behavior from any particular implementation.
 
 **Intent**
 
