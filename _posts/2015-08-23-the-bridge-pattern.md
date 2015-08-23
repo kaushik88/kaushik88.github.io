@@ -19,7 +19,7 @@ This is the second post in a series of blogposts on [Design Patterns](https://en
 
 {% include figure.html path="blog/linkedin/bridge-incorrect.png" alt="Bridge Design Pattern" %}
 
-Assume that you've to write a program that draws a rectangle. Since you've 2 drawing libraryies, you decide to create an abstract class called *Rectangle* and have the two versions extend this. But then after some time, we need to draw a circle too. So, we decide to create an abstract class called *Shape* and have both *Rectangle* and *Circle* extend it.
+Assume that you've to write a program that draws a rectangle. Since you've 2 drawing libraries, you decide to create an abstract class called *Rectangle* and have the two versions extend this. But then after some time, we need to draw a circle too. So, we decide to create an abstract class called *Shape* and have both *Rectangle* and *Circle* extend it.
 
 The problem with this approach is that scaling the behavior (drawing a line) also depends on scaling the entitities (rectangle, circle etc).
 
