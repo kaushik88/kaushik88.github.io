@@ -31,6 +31,7 @@ On the flight back from a 5 day vacation to the Yellowstone National Park, I was
 5. Large group - Making new friends, having lots of fun :)
 
 **By Schedule**
+
 1. Packed - Getup at 8 AM, visit as many tourist places as possible and return around midnight.
 2. Relaxed - No plan, just take it as it comes.
 
