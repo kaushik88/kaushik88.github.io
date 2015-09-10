@@ -22,15 +22,15 @@ Recently, I had an early morning flight (travelling alone) from San Francisco In
 
 **What I liked about the experience**
 
-1. Hassle-free - No paper documents and everything was electronic.
+1. **Hassle-free** - No paper documents and everything was electronic.
 
-2. Cheap - It's not just free but you get to make a few dollars too depending on how many miles your car was driven.
+2. **Cheap** - It's not just free but you get to make a few dollars too depending on how many miles your car was driven.
 
-3. Quick - Within 10 minutes, I reached the airport during drop-off and I was also picked up within 10 minutes during pickup.
+3. **Quick** - Within 10 minutes, I reached the airport during drop-off and I was also picked up within 10 minutes during pickup.
 
-4. Free Carwash - Both the interiors and exteriors looked clean.
+4. **Free Carwash** - Both the interiors and exteriors looked clean.
 
-5. E-Mail Updates - This is where I was impressed the most and I had received the right amount of email notifications (always hard to get this right) - 
+5. **E-Mail Updates** - This is where I was impressed the most and I had received the right amount of email notifications (always hard to get this right) - 
 
 	a. The first email with the drop-off receipt along with the mileage and gas information.
 
@@ -40,7 +40,7 @@ Recently, I had an early morning flight (travelling alone) from San Francisco In
 
 	d. The fourth email when my flight landed with the pickup instructions.
 
-6. Insurance Coverage - Covered by a million dollar insurance policy.
+6. **Insurance Coverage** - Covered by a million dollar insurance policy.
 
 **What can be improved**
 
