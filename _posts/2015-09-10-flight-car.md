@@ -18,9 +18,7 @@ One of the things that I don't like about vacations is arranging my travel plans
 
 4. Ask a Friend to drop and pickup - Ideally the best option :)
 
-Recently, I had an early morning flight (travelling alone) from San Francisco International airport and I wasn't happy with the above 4 options. Then I heard about [FlightCar](www.flightcar.com) from my colleague and this seemed promising. FlightCar lets you park for **free** by renting out your car to approved members.
-
-**Is this for you?**
+Recently, I had an early morning flight (travelling alone) from San Francisco International airport and I wasn't happy with the above 4 options. Then I heard about [FlightCar](www.flightcar.com) from my colleague and this seemed promising. FlightCar lets you park for **free** by renting out your car to approved members. If you're willing to let your car be rented out, this seems like a good option.
 
 **What I liked about the experience**
 
@@ -34,10 +32,15 @@ Recently, I had an early morning flight (travelling alone) from San Francisco In
 
 5. E-Mail Updates - This is where I was impressed the most and I had received the right amount of email notifications (always hard to get this right) - 
 
-a. The first email with the drop-off receipt along with the mileage and gas information.
-b. The second email when my car was rented out (yay, I'm gonna make some money).
-c. The third email when my car was returned (phew, my car is safe!)
-d. The fourth email when my flight landed with the pickup instructions.
+	a. The first email with the drop-off receipt along with the mileage and gas information.
+
+	b. The second email when my car was rented out (yay, I'm gonna make some money).
+
+	c. The third email when my car was returned (phew, my car is safe!)
+
+	d. The fourth email when my flight landed with the pickup instructions.
+
+6. Insurance Coverage - Covered by a million dollar insurance policy.
 
 **What can be improved**
 
