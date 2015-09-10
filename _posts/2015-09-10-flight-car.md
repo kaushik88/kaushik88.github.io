@@ -8,7 +8,7 @@ categories:
 thumbnail_path: blog/linkedin/flightcar-logo.png
 ---
 
-One of the things that I don't like about vacations is arranging my travel plans to and from the airport. The available options - 
+One of the things that I don't like about vacations is arranging my travel plans to and from the airport. My options are - 
 
 1. Park the car near the airport - This roughly costs around $15 a day and is usually an open parking spot (under the sun).
 
