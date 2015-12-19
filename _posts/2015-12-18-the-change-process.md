@@ -40,6 +40,7 @@ I've struggled to change my drop shot technique since then and this blog post is
 
 	Change takes time, infact the longer the habit - the harder the process and the more time it takes to change. This is why I feel the first step is so important and that's what should help you past this stage and not give in.
 
-4. **Don't be too hard on yourself** - *This probably only applies to things far more important than recreational sport.* There is some disappointment with the initial drop in performance and also frustration in not able to adapt quickly. Don't be too hard on yourself and remember that you're good enough. Quoting Rohan from his blog post [here](http://alearningaday.com/2015/09/i-am-enough/).
+4. **Don't be too hard on yourself** - *This probably only applies to things far more important than recreational sport.* There is some disappointment with the initial drop in performance and also frustration in not able to adapt quickly. Don't be too hard on yourself and remember that you're good enough. Quoting Rohan from his blog post [here](http://alearningaday.com/2015/09/i-am-enough/) - 
 
-> There is no end to the number of things people around us might want of us. At any given moment, they could want us to be more patient, caring, confident, assertive, energetic, enthusiastic, passionate, analytical or entrepreneurial. And, yes, we could get better at being some of those things too. But, peace, happiness and real change come when we stop ourselves on this endless road and say – “I am enough.”
+	> There is no end to the number of things people around us might want of us. At any given moment, they could want us to be more patient, caring, confident, assertive, energetic, enthusiastic, passionate, analytical or entrepreneurial. And, yes, we could get better at being some of those things too. But, peace, happiness and real change come when we stop ourselves on this endless road and say – “I am enough.”
+
