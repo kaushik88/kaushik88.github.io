@@ -16,4 +16,4 @@ I found this quite interesting and got me thinking.
 
 {% include figure.html path="blog/personal/passion.jpg" alt="Follow your passion" %}
 
-I've been fortunate enough to be surrounded by people who are passionate about a lot of things - blogging, running, skiing, photography, brewing coffee, music, rock climbing, improv, tennis, yoga, talking, hiking, fitness, cooking, chess, cricket, basketball and a lot more. I share some of their passions, some of them have inspired me to pickup their passions, hopefully I've inspired a few too, and to the rest of them - *'I like the fact that you're passionate.*
+I've been fortunate enough to be surrounded by people who are passionate about a lot of things - blogging, running, skiing, photography, brewing coffee, music, rock climbing, improv, tennis, yoga, talking, hiking, fitness, cooking, chess, cricket, basketball and a lot more. I share some of their passions, some of them have inspired me to pickup their passions, hopefully I've inspired a few too, and to the rest of them - *'I like the fact that you're passionate.'*
