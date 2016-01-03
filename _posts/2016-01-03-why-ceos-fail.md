@@ -15,7 +15,7 @@ The [book](http://www.amazon.com/Why-CEOs-Fail-Behaviors-Derail/dp/0787967637/) 
 3. *Volatility* - Your mood swings drive business swings.
 4. *Excessive Caution* - The next decision you make may be your first.
 5. *Habitual Distrust* - You focus on the negatives.
-6. *Aloofness* - You disengage and disconnext.
+6. *Aloofness* - You disengage and disconnect.
 7. *Mischievousnesss* - Rules are made to be broken
 8. *Eccentricity* - It's fun to be different just for the sake of it.
 9. *Passive Resistance* - Your silence is misinterpreted as agreement.
