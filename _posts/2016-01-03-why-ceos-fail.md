@@ -26,6 +26,6 @@ The [book](http://www.amazon.com/Why-CEOs-Fail-Behaviors-Derail/dp/0787967637/) 
 
 1. **Stress** - Most of these derailers are a result of stress to a positive personality trait. For example, if *self confidence* is one of your strengths it might turn into *arrogance* under stress or being *charismatic* might become *melodramatic* under stress. And if you think about it, self-confidence and charisma might be the reason for your climb to the top of the ladder.
 
-2. **Crossing The Line** - The goal of this book isn't to eradicate these traits but to be aware of them and act on them when under stress. The other thing that I liked about this book is that for each of the derailer, there is a section which indicates when you've crossed the line - from self-confidence to arrogance or from charisma to melodrama and so on.
+2. **Crossing The Line** - The goal of this book isn't to eradicate these traits but to be aware of them and act on them when under stress. The other thing that I liked about this book is that for each of the derailer, there is a section which indicates when you've crossed the line - from self-confidence to arrogance or from analytical to overly cautious and so on.
 
 3. The book is applicable to everyone - just think of yourself as the CEO of your life :)
