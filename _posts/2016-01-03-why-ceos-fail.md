@@ -29,3 +29,5 @@ The [book](http://www.amazon.com/Why-CEOs-Fail-Behaviors-Derail/dp/0787967637/) 
 2. **Crossing The Line** - The goal of this book isn't to eradicate these traits but to be aware of them and act on them when under stress. The other thing that I liked about this book is that for each of the derailer, there is a section which indicates when you've crossed the line - from self-confidence to arrogance or from analytical to overly cautious and so on.
 
 3. The book is applicable to everyone - just think of yourself as the CEO of your life :)
+
+A good read!
