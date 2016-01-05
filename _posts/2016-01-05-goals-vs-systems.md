@@ -12,7 +12,7 @@ In the book **How to fail at almost everything and still win big**, Scott Adams 
 
 > A goal is a specific objective that you achieve (or don't) in the future. A system is something you do on a regular basis that increases your odds of happiness in the long run.
 
-And this applies to most things that we do - in the world of running, running a half marathon under 2 hours is a goal, but running 3 miles twice a week is a system. In the world of skiing, skiing a black slope is a goal, but skiing every weekend is a system. 
+And this applies to most things that we do - in the world of running, running a half marathon under 2 hours is a goal, but running 3 miles twice a week is a system. In the world of skiing, skiing a black diamond trail comfortably is a goal, but skiing every weekend is a system.
 
 {% include figure.html path="blog/personal/goals-vs-systems.jpg" alt="Goals vs systems" %}
 
