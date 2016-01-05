@@ -18,7 +18,11 @@ And this applies to most things that we do - in the world of running, running a 
 
 Here's why systems are better in most cases -
 
-1. **State of Continuous Failure** - In the example of losing 20 pounds, a system-driven person feels good every time he/she hits the gym whereas a goal-focussed person exists in a state of nearly continuous failure till he/she reaches the goal. And if the goal is not met (for whatever reason), it feels like a failure. This is why goals are harder to achieve and systems are easier to follow. A couple of places where you can relate to this - 
+1. **State of Continuous Failure** - 
+
+	> Goals are harder (not impossible) to achieve and systems are easier to follow. 
+
+	In the example of losing 20 pounds, a system-driven person feels good every time he/she hits the gym whereas a goal-focussed person exists in a state of nearly continuous failure till he/she reaches the goal. And if the goal is not met (for whatever reason), it feels like a failure. A couple of places where you can relate to this - 
 
 	*New Year Resolutions* - This is probably why most people fail at their new year resolutions or why few people are scared to set them :)
 
@@ -26,7 +30,7 @@ Here's why systems are better in most cases -
 
 2. **Post Success** - One can argue that we get a sense of achievement or extreme happiness when we reach a goal and this is lacking in a system-driven approach. It is true that we enjoy and feel terrific when we achieve a goal, but the celebrations end when the spoils of success start to bore us or when we've realized that we've lost the thing that has given us a direction and purpose until now. While some people fail to come out of the spoils of success, the rest reenter the cycle of permanent presuccess failure again (a lose-lose scenario)! A couple of places where I can relate to this - 
 
-	*The Curse of Roger Federer* - At the time when Ernest Gulbis defeated Roger Federer in the 2014 Roland Garros Quarter-Finals, he was facing an uphill task in the Semis as the previous 8 players that have defeated Roger in a major, have lost the very next match. Players tend to get complacent and fail to motivate them soon enough for the next match (usually in a couple of days) :)
+	*The Curse of Roger Federer* - At the time when Ernest Gulbis defeated Roger Federer in the 2014 Roland Garros Quarter-Finals, he was facing an uphill task in the Semis as the previous 8 players that have defeated Roger in a major, have lost the very next match. Players tend to get complacent and fail to motivate themselves soon enough for the next match (usually in a couple of days) :)
 
 	*The IIT success* - I've always wondered how someone after cracking the IIT entrance exam (one of the toughest exams for Undergrad education in India), performs so poorly in the first semester or in some cases, the entire 4 years of undergrad. I'm sure there are various reasons for failure to set goals soon enough is definitely one of them.
 
