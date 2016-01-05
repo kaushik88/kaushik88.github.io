@@ -8,7 +8,7 @@ categories:
 thumbnail_path: blog/personal/goals-vs-systems.jpg
 ---
 
-In the book *How to fail at almost everything and still win big*, Scott Adams talks about why Systems are better than Goals. Consider the example of losing weight, a goal-focussed person would be thinking *I need to lose 20 pounds in 5 months* whereas a system-driven person would be saying *I need to spend 30 minutes in the gym everyday*. Although they seem quite similar, the difference lies in where the focus is on - goals focus on the end-result whereas systems focus on the process. 
+In the book **How to fail at almost everything and still win big**, Scott Adams talks about why Systems are better than Goals. Consider the example of losing weight, a goal-focussed person would be thinking *I need to lose 20 pounds in 5 months* whereas a system-driven person would be saying *I need to spend 30 minutes in the gym everyday*. Although they seem quite similar, the difference lies in where the focus is on - goals focus on the end-result whereas systems focus on the process. 
 
 > A goal is a specific objective that you achieve (or don't) in the future. A system is something you do on a regular basis that increases your odds of happiness in the long run.
 
@@ -30,4 +30,4 @@ Here's why systems are better in most cases -
 
 	*The IIT success* - I've always wondered how someone after cracking the IIT entrance exam (one of the toughest exams for Undergrad education in India), performs so poorly in the first semester or in some cases, the entire 4 years of undergrad. I'm sure there are various reasons for failure to set goals soon enough is definitely one of them.
 
-The ideal thing to do is to set a realistic goal and focus on the system (not thinking about the goal often) but I've seen very few people do this consistently. Mark Zuckerberg sets yearly goals and achieves them, Elon Musk achieves his audacious 10 year goals but I believe they are the exceptions and not the norms. For the rest of us, as Scott Adams bluntly puts it, *Goals are for losers*.
+The **ideal thing** to do is to set a realistic goal and focus on the system (not thinking about the goal often) but I've seen very few people do this consistently. Mark Zuckerberg sets yearly goals and achieves them, Elon Musk achieves his audacious 10 year goals but I believe they are the exceptions and not the norms. For the rest of us, as Scott Adams bluntly puts it, *Goals are for losers*.
