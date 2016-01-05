@@ -20,7 +20,7 @@ Here's why systems are better in most cases -
 
 1. **State of Continuous Failure** - 
 
-	> Goals are harder (not impossible) to achieve and systems are easier to follow. 
+	> Goals are harder to achieve and systems are easier to follow. 
 
 	In the example of losing 20 pounds, a system-driven person feels good every time he/she hits the gym whereas a goal-focussed person exists in a state of nearly continuous failure till he/she reaches the goal. And if the goal is not met (for whatever reason), it feels like a failure. A couple of places where you can relate to this - 
 
