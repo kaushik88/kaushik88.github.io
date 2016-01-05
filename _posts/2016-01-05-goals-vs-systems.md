@@ -12,7 +12,11 @@ In the book *How to fail at almost everything and still win big*, Scott Adams ta
 
 > A goal is a specific objective that you achieve (or don't) in the future. A system is something you do on a regular basis that increases your odds of happiness in the long run.
 
-And this applies to most things that we do - in the world of running, running a half marathon under 2 hours is a goal, but running 3 miles twice a week is a system. In the world of skiing, skiing a black slope is a goal, but skiing every weekend is a system. Here's why systems are better in most cases -
+And this applies to most things that we do - in the world of running, running a half marathon under 2 hours is a goal, but running 3 miles twice a week is a system. In the world of skiing, skiing a black slope is a goal, but skiing every weekend is a system. 
+
+{% include figure.html path="blog/personal/goals-vs-systems.jpg" alt="Goals vs systems" %}
+
+Here's why systems are better in most cases -
 
 1. **State of Continuous Failure** - In the example of losing 20 pounds, a system-driven person feels good every time he/she hits the gym whereas a goal-focussed person exists in a state of nearly continuous failure till he/she reaches the goal. And if the goal is not met (for whatever reason), it feels like a failure. This is why goals are harder to achieve and systems are easier to follow. A couple of places where you can relate to this - 
 
@@ -25,7 +29,5 @@ And this applies to most things that we do - in the world of running, running a 
 	*The Curse of Roger Federer* - At the time when Ernest Gulbis defeated Roger Federer in the 2014 Roland Garros Quarter-Finals, he was facing an uphill task in the Semis as the previous 8 players that have defeated Roger in a major, have lost the very next match. Players tend to get complacent and fail to motivate them soon enough for the next match (usually in a couple of days) :)
 
 	*The IIT success* - I've always wondered how someone after cracking the IIT entrance exam (one of the toughest exams for Undergrad education in India), performs so poorly in the first semester or in some cases, the entire 4 years of undergrad. I'm sure there are various reasons for failure to set goals soon enough is definitely one of them.
-
-{% include figure.html path="blog/personal/goals-vs-systems.jpg" alt="Goals vs systems" %}
 
 The ideal thing to do is to set a realistic goal and focus on the system (not thinking about the goal often) but I've seen very few people do this consistently. Mark Zuckerberg sets yearly goals and achieves them, Elon Musk achieves his audacious 10 year goals but I believe they are the exceptions and not the norms. For the rest of us, as Scott Adams bluntly puts it, *Goals are for losers*.
