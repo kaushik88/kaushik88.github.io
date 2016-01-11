@@ -63,6 +63,7 @@ As they say, *'If you cannot measure it, you can't manage it.'* This is one of t
 {% include figure.html path="blog/personal/swensen.png" alt="Swensen's Asset Allocation" %}
 
 The Swensen model of Asset Allocation- 
+
 * 30% Domestic Equities - Total Market Index (VTSMX)
 
 * 15% Developed world international equities - Total International Stock Index (VGTSX)
