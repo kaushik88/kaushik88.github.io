@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "My Headspace Story"
+title: "My Headspace Journey"
 tags:
 - Product
 categories:
