@@ -2,7 +2,7 @@
 layout: post
 title: "My Headspace Story"
 tags:
-- Relationship
+- Product
 categories:
 - Learn
 thumbnail_path: blog/personal/headspace.jpg
