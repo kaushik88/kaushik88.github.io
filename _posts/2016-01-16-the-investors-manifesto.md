@@ -26,17 +26,17 @@ The second option makes you more risk tolerant, gives you a lot of time early in
 
 The rosiest scenario for the young investor is a long, brutal bear market.
 
-2. **Dare to Be Dull** - 
+2. **Dare to Be Dull** 
 
-The purpose of investment is to avoid dying poor, not to get rich. Investing is purely for financial purpose rather than for entertainment. If you want excitement in your life, it is far safer and cheaper to take up skydiving than to seek it in your investment portfolio. Buying Twitter (TWTR) stocks is more cool and sexy than a Vanguard Bond Index. And for the same reason, people buy lottery tickets! Reminds me of [this scene](https://www.youtube.com/watch?v=wCyKcfraV1c) from the popular sitcom FRIENDS where Ross says he'll invest the money from the lottery into a low yield bond -
+The purpose of investment is to avoid dying poor, not to get rich. Investing is purely for financial purpose rather than for entertainment. If you want excitement in your life, it is far safer and cheaper to take up skydiving than to seek it in your investment portfolio. Buying Twitter (TWTR) stocks is more cool and sexy than a Vanguard Bond Index. And for the same reason, people buy lottery tickets! Reminds me of [this scene](https://www.youtube.com/watch?v=wCyKcfraV1c) from the popular sitcom FRIENDS where Ross says he'll invest the money from the lottery into a low yield bond.
 
-3. ** Friends, Family and Media** - 
+3. **Friends, Family and Media**
 
 * Avoid constantly checking the stock prices, the financial news and the media - once or twice a week should be enough. (Note to Self) If you find yourself doing this, get outside and spend time with your loved ones. If you need more money, work on side projects.
 
 * Do not discuss finance with friends or family during the bear market - best for everyone. I would recommend to not discuss the results even during the bullish times :)
 
-4. **Relish the Randomness** -
+4. **Relish the Randomness**
 
 * Never try to predict the market/future - Accept that there is no pattern in the financial market and you're not better than an average investor. Stop making analogies.
 
