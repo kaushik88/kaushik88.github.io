@@ -18,18 +18,17 @@ It is one thing to acknowledge that you're risk tolerant after reading the books
 
 1. **Financially Mature** - If you're in your 20s starting to invest, which one would you prefer among the following 2 scenarios - 
 
-Choice A: Stocks go up by quite a lot—and stay up for many years.
-Choice B: Stocks go down by quite a lot—and stay down for many years.
+*Choice A: Stocks go up by quite a lot—and stay up for many years.*
 
-The answer is B. The second option also makes you more risk tolerant, gives you a lot of time early in your career to buy low and also the maturity in your 30s and 40s to look at a bullish market and say 'I've seen this before and I know how this is going to end'.
+*Choice B: Stocks go down by quite a lot—and stay down for many years.*
+
+The second option makes you more risk tolerant, gives you a lot of time early in your career to **buy low** and also the maturity in your 30s and 40s to look at a bullish market and say *'I've seen this before and I know how this is going to end'.*
 
 The rosiest scenario for the young investor is a long, brutal bear market.
 
 2. **Dare to Be Dull** - 
 
-The purpose of investment is to avoid dying poor, not to get rich. Investing is purely for financial purpose rather than for entertainment. If you want excitement in your life, it is far safer and cheaper to take up skydiving than to seek it in your investment portfolio. Buying Twitter (TWTR) stocks is more cool and sexy than a Vanguard Bond Index. And for the same reason, people buy lottery tickets! Reminds me of this scene from the popular sitcom FRIENDS where Ross says he'll invest the money from the lottery into a low yield bond -
-
-{% include iframe-figure.html url="//www.youtube.com/watch?v=wCyKcfraV1c" caption="The lottery scene in FRIENDS" link="https://www.youtube.com/watch?v=wCyKcfraV1c" %}
+The purpose of investment is to avoid dying poor, not to get rich. Investing is purely for financial purpose rather than for entertainment. If you want excitement in your life, it is far safer and cheaper to take up skydiving than to seek it in your investment portfolio. Buying Twitter (TWTR) stocks is more cool and sexy than a Vanguard Bond Index. And for the same reason, people buy lottery tickets! Reminds me of [this scene](https://www.youtube.com/watch?v=wCyKcfraV1c) from the popular sitcom FRIENDS where Ross says he'll invest the money from the lottery into a low yield bond -
 
 3. ** Friends, Family and Media** - 
 
