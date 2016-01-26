@@ -12,7 +12,7 @@ There are 2 kinds of people based on the way they plan their events or tasks - t
 
 {% include figure.html path="blog/personal/simplifier-optimizer.jpg" alt="Simplifier vs Optimizer" %}
 
-Simplification is great as it frees up energy but it is not always the best option. Here're some factors that can help you decide - 
+Simplification is great as it frees up energy but it is not always the best option. It is also worth mentioning that in most cases, we're always pressed for time leaving us no option but to optimize. Here're some factors that can help you decide - 
 
 **People Involved** - When you need to communicate with people, almost always simplifying is the way to go (planning trips with large groups). The exception being when you're going out with people of your similar wavelength (simple dinner).
 
