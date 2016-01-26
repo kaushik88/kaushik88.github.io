@@ -8,7 +8,7 @@ categories:
 thumbnail_path: blog/personal/simplifier-optimizer.jpg
 ---
 
-There are 2 kinds of people based on the way they plan their events or tasks - the **simplifiers** and the **optimizers**. A simplifier is one who will prefer the easy way to accomplish a task, while knowing that some amount of extra effort might have produced a better outcome. An optimizer, on the other hand, looks for the very best solution even if the extra complexity increases the odds of unexpected problems.
+There are 2 kinds of people based on the way they plan their events or tasks - the **simplifiers** and the **optimizers. A simplifier is one who will prefer the easy way to accomplish a task (or a set of tasks), while knowing that some amount of extra effort might have produced a better outcome. An optimizer, on the other hand, looks for the very best solution even if the extra complexity increases the odds of unexpected problems.
 
 {% include figure.html path="blog/personal/simplifier-optimizer.jpg" alt="Simplifier vs Optimizer" %}
 
