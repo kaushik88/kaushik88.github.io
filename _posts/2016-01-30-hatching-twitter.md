@@ -24,6 +24,6 @@ I know this might sound trivial but is fundamental in shaping the vision of Twit
 
 {% include figure.html path="blog/personal/twitterbox2.jpg" alt="What's happening?" %}
 
-I felt they failed to set aside their egos to see and to vision what's best for Twitter. In reality, Twitter was about both a status updater and a news site - one would have never worked without the other. A simple status updater in 140-character posts was too and egotistical to be sustainable. A news updater in 140-character spurts was just a glorified newswire. The two together is what made it a great success!
+I felt they failed to set aside their egos to vision what's best for Twitter. In reality, Twitter was both a status updater and a news site - one would have never worked without the other. A simple status updater in 140-character posts was too egotistical to be sustainable. A news updater in 140-character spurts was just a glorified newswire. The two together is what made it a great success!
 
-Side Note - As I write this, 5 executives (the head of Product, Engineering, Marketing, HR and one of the Vine cofounders) from Twitter have decided *to leave* the company on the same day. There's probably more to the story than the one that we read in the press and hopefully another book on Twitter can cover that :)
+*Side Note* - As I write this, 5 executives (the head of Product, Engineering, Marketing, HR and one of the Vine cofounders) from Twitter have decided *to leave* the company on the same day. There's probably more to the story than the one that we read in the press and hopefully another book on Twitter can cover that :)
