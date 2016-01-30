@@ -14,16 +14,16 @@ However, this book turned out to be more about  how the co-founders betrayed eac
 
 ### Ego
 
-If there was one important theme from the book, that would be the ego clashes among the co-founders and more specifically between Ev and Jack. Ev and Jack had fundamentally different views of what Twitter and each of them tried to build *their* version of Twitter.
+If there was one important theme from the book, that would be the ego clashes among the co-founders and more specifically between Ev and Jack. Ev and Jack had fundamentally different views of what Twitter was and each of them tried to build *their* version of Twitter.
 
 Jack saw Twitter as a **status updater** - a place to say where *he* was and what *he* was doing, a place to display yourself and your ego to your followers. Ev, being a shy person, saw Twitter as a medium to share where *other people* were and what the *other people* were doing.
 
 {% include figure.html path="blog/personal/twitterbox1.jpg" alt="What're you doing?" %}
 
-I know this might sound trivial but is fundamental in shaping the vision of Twitter - Jack's vision saw twitter as a status updater whereas Ev visioned Twitter to be a real-time news site. One of the first decisions that Ev made after taking over as the CEO from Jack was to change the text in the Twitter text box from *'What're you doing?'* to *'What's happening?'*.
+I know this might sound trivial but is fundamental in shaping the vision of Twitter - Jack's vision saw twitter as a **status updater** whereas Ev visioned Twitter to be a real-time **news site**. One of the first decisions that Ev made after taking over as the CEO from Jack was to change the text in the Twitter text box from *'What're you doing?'* to *'What's happening?'*.
 
 {% include figure.html path="blog/personal/twitterbox2.jpg" alt="What's happening?" %}
 
-I felt they were so focused on their egos that they failed to see what's best for Twitter and it's vision.
+I felt they failed to set aside their egos to see and to vision what's best for Twitter. In reality, Twitter was about both a status updater and a news site - one would have never worked without the other. A simple status updater in 140-character posts was too and egotistical to be sustainable. A news updater in 140-character spurts was just a glorified newswire. The two together is what made it a great success!
 
 Side Note - As I write this, 5 executives (the head of Product, Engineering, Marketing, HR and one of the Vine cofounders) from Twitter have decided *to leave* the company on the same day. There's probably more to the story than the one that we read in the press and hopefully another book on Twitter can cover that :)
