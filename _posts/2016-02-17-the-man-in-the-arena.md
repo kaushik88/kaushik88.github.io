@@ -27,7 +27,7 @@ who at the best knows in the end the triumph of high achievement,<br/>
 and who at the worst, if he fails, at least fails while daring greatly,<br/> 
 so that his place shall never be with those cold and timid souls who neither know victory nor defeat.<br/>
 
- A couple of thoughts/learnings from this - 
+A couple of thoughts/learnings from this - 
 
  1. In this age of social media, it is so easy to be a critic and appear cooler, smarter and wiser than the man in the arena - but it doesn't matter. If we really cared about the subject, we would be the person working on it and fixing the problems (reminds me of the recent Parker Conrad incident, all the critics of Sachin Tendulkar and more recently Roger Federer).
 
