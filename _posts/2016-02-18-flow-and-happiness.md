@@ -20,7 +20,7 @@ My key learning is from the common characteristics that are found in most flow a
 
 1. **Clarity of Goals** - For example, while playing a musical instrument, you know exactly what note to hit and if you're climbing a mountain, you know what step to take next. This is why we're more productive at work on days when you exactly know what to do.
 
-2. **Immediate Feedback** - There is clear feedback whether you're progressing towards the goal (defined earlier) or not. For example, in the game of tennis, as soon as you hit a shot, you know the quality and where it is going to land in the opponent's court.
+2. **Immediate Feedback** - There is clear feedback whether you're progressing towards the goal (defined earlier) or not. For example, in the game of tennis, as soon as you hit a shot, you know the quality of the shot and where it is going to land in the opponent's court.
 
 3. **Challenging** - The challenges of the activity must match (or marginally better than) the skill of the person. In other words what there is to do is in balance with what you can do. In a game of chess, the game is enjoyable if the other person is of similar ability so that you're neither intimidated nor bored.
 
