@@ -24,6 +24,6 @@ My key learning is from the common characteristics that are found in most flow a
 
 3. **Challenging** - The challenges of the activity must match (or marginally better than) the skill of the person. In other words what there is to do is in balance with what you can do. In a game of chess, the game is enjoyable if the other person is of similar ability so that you're neither intimidated nor bored.
 
-However, these conditions are **contrary** to what we have in our real life and Prof. Mihaly goes in detail about finding flow in our life and not just in specific activities. Some of the topics covered in this book include achieving flow at work, in your personal life, in solitude, with your family and friends, your daily chores and also being content with sub-optimal moments.
+However, these conditions are **contrary** to what we have in our real life and Prof. Mihaly goes in detail about finding flow in our life and not just in specific activities. Some of the topics covered in this book include achieving flow at work, in your personal life, in solitude, with your family and friends, your daily chores and also how to be content with sub-optimal moments.
 
 A good read if you can relate to it!
