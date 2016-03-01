@@ -26,4 +26,4 @@ Before going over the themes, here's the TLDR version of the book, (my favority 
 
 **6. Exaptation** - Exaptation is taking an idea or a concept from one field and applying it to another field. We usually tend to be more innovative or we tend to learn from people who are different than us. An example that comes to my mind is Jobs and Wozniak - they complimented each other well and created Apple. Another example in the world of Sports is the rivalry between Nadal and Federer - both have become a better player thanks to one another.
 
-**Platforms** - I think the best example for this would be the App Store - Apple has created a platform on which innovation and creativity thrives. 
+**7. Platforms** - I think the best example for this would be the App Store - Apple has created a platform on which innovation and creativity thrives. 
