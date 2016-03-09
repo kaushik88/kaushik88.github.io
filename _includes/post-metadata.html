@@ -16,7 +16,7 @@
       {% endfor %}
     </span>
   {% endif %}  
-  {% if page.include_comments %}
+  {% if page.include_comments or layout.include_comments %}
     <span class="ml1">
       <i class="fa fa-comments"></i>
       {% if page.id == include.post.id %}

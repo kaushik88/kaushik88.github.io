@@ -56,10 +56,11 @@ permalink: "/blog/:year/:month/:day/:title"
 sass:
   sass_dir: "/assets/css"
   style: :compressed  
-highlighter: pygments
+highlighter: rouge
 timezone: 'America/Los_Angeles'
 
 # Plugins (GitHub Pages only support a few)
 gems:
   - jekyll-redirect-from
   - jekyll-sitemap
+  - jekyll-paginate
