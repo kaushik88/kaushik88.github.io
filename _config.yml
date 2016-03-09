@@ -52,7 +52,7 @@ contact_urls:
 # Jekyll build settings
 paginate: 10
 paginate_path: "/blog/page:num"
-permalink: "/blog/:year/:month/:day/:title"
+permalink: "/blog/:year/:month/:day/:title/"
 sass:
   sass_dir: "/assets/css"
   style: :compressed  
