@@ -14,7 +14,7 @@ A minor disappointment today got me thinking about the different ways in which e
 
 **Criticize** - If I'm going down, I'm taking everybody with me!
 
-**Blame** - Based on my observation, this is probably the most common reaction to failure - it is easy, makes you feel better and we all love doing it.
+**Blame** - The most common reaction - it is easy, makes you feel better and we all love doing it.
 
 **Sympathize** - So what I failed in X, *atleast* I'm successful in A,B and C.
 
@@ -24,7 +24,7 @@ A minor disappointment today got me thinking about the different ways in which e
 
 **Abscond** - Depending on the magnitude, this could mean taking a vacation or moving to a new place or in some cases just going out.
 
-**Distract** - Distract yourself from being bogged down - the distraction could either be a positive distraction (hitting the gym or focusing on work) or a negative one (well, you know!!).
+**Distract** - Distract yourself from getting bogged down - the distraction could either be a positive distraction (hitting the gym or focusing on work) or a negative one (well, you know!!).
 
 **Compensate** - Compensate the failure in one field with a success in another.
 
