@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Defeats/Failures/Disappointments - An Observation"
+title: "Reactions to Tough Moments - An Observation"
 tags:
 - Books
 categories:
@@ -8,7 +8,7 @@ categories:
 thumbnail_path: blog/personal/failure.jpg
 ---
 
-A minor disappointment today got me thinking about the different ways I've reacted and observed others react to them before. The list below in random order - 
+A minor disappointment today got me thinking about the different ways I've reacted and observed others react to tough moments before - failures, disappointments, losses and defeats. The list below in random order - 
 
 **Deny** - What failure? :P
 
