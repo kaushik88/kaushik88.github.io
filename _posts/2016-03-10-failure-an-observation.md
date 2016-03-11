@@ -10,6 +10,8 @@ thumbnail_path: blog/personal/failure.jpg
 
 A minor disappointment today got me thinking about the different ways in which either I've reacted or observed others react to tough moments - more specifically failures, disappointments, losses and defeats. The list below in random order - 
 
+{% include figure.html path="blog/personal/failure.jpg" alt="Failure" %}
+
 **Deny** - What failure? :P
 
 **Criticize** - If I'm going down, I'm taking everybody with me!
