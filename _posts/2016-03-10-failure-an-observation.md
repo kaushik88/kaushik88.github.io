@@ -8,7 +8,7 @@ categories:
 thumbnail_path: blog/personal/failure.jpg
 ---
 
-A minor disappointment today got me thinking about the different ways in which either I've reacted or observed others react to tough moments before - failures, disappointments, losses and defeats. The list below in random order - 
+A minor disappointment today got me thinking about the different ways in which either I've reacted or observed others react to tough moments - more specifically failures, disappointments, losses and defeats. The list below in random order - 
 
 **Deny** - What failure? :P
 
@@ -28,4 +28,4 @@ A minor disappointment today got me thinking about the different ways in which e
 
 **Compensate** - Compensate the failure in one field with a success in another.
 
-**Observe** - Observing your own failure means treating it like a third-person *case-study*, taking notes and then moving on. This is the first time I've done this and I can certainly say that I feel a lot better!
+**Observe** - Observing your own failure means treating it like a third-person *case-study*, taking notes and then moving on.
