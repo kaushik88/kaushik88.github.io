@@ -2,7 +2,7 @@
 layout: post
 title: "Reactions to Tough Moments - An Observation"
 tags:
-- Books
+- Fail
 categories:
 - Learn
 thumbnail_path: blog/personal/failure.jpg
