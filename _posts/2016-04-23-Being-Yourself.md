@@ -13,9 +13,13 @@ Last week, I had watched the latest Kung Fu Panda short film on Netflix and this
 There is a scene in this short film where Master Shifu is teaching KungFu to the Tigress and this how the scene goes -
 
 *Shifu* - Straighten up!
+
 *Tigress* - (In Admiration of Master Shifu) Yes, Master Shifu.
+
 *Shifu* - Wider! Lower stance. Hold Your ground. Steady. Strong. Chin up! This is **the way** of Kung Fu.
+
 *Tigress* - (Get's distracted, flies up in the air, does some super awesome KungFu and comes back!)
+
 *Shifu* - (Gets angry) - That's not proper form. This is not control! This is not KungFu! 100 Laps!
 
 Shifu goes back to rest and then Master Oogway (Shifu's master) delivers the punch line - 
