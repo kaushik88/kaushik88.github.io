@@ -8,7 +8,7 @@ categories:
 thumbnail_path: blog/personal/kungfupanda.jpg
 ---
 
-Last week, I had watched the latest Kung Fu Panda short film on Netflix and this blog post is my key learning from this short film. If you've haven't watched the KungFu Panda movies, highly recommend them - besides a good laugh, I always end up learning one thing or the other! 
+Last week, I had watched the latest Kung Fu Panda short film on Netflix and this blog post is my key learning from this short film. If you've haven't watched the KungFu Panda movies, highly recommend them - besides a good laugh, I always end up learning one thing or the other! Here's the [link](https://www.netflix.com/title/80101096?s=i) to the short film on Netflix.
 
 There is a scene in this short film where Master Shifu is teaching KungFu to the Tigress and this how the scene goes -
 
@@ -30,4 +30,3 @@ Shifu goes back to rest and then Master Oogway (Shifu's master) delivers the pun
 
 Everytime we admire a quality in someone else, we immediately try to change ourselves to some version of the other person. More often than not the change is shortlived and we end up losing our originality. True and lasting change comes when we imbibe the quality or change by adding our own signature/style to it.
 
-[Link](https://www.netflix.com/title/80101096?s=i) to the short film on Netflix.
