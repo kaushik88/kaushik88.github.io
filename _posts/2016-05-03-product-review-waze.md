@@ -18,7 +18,7 @@ Last Thanksgiving, I was flying out of the Stockton Metropolitan airport - rough
 
 {% include figure.html path="blog/personal/waze-plan.jpg" alt="Waze Plan" %}
 
-This feature lets you enter the time you would like to reach your destination and based on the traffic, would alert you to start accordingly. In the exampel above, if I want to reach office on time for a 10 AM meeting, Waze keeps checking the traffic and prompts me when I need to leave home. Simple, intuitive and genius indeed!
+This feature does exactly that - lets you enter the time you would like to reach your destination and based on the traffic, would alert you to start accordingly. In the example above, if I want to reach office on time for a 10 AM meeting, Waze keeps checking the traffic and prompts me when I need to leave home. Simple, intuitive and genius indeed!
 
 **Sharing Your Drive**
 
