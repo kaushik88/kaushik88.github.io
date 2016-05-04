@@ -28,4 +28,4 @@ Co-ordination among multiple people who are meeting at the same destination is s
 
 {% include figure.html path="blog/personal/waze-share.jpg" alt="Waze Share" %}
 
-I've always wondered why there have not been any feature improvements in Navigation for a long time -Google Maps had turn by turn navigation in October 2009. (Maybe all it took now was a Product Manager at Waze who cared about reaching the destination on time.) In the last few months we've had Waze introduce 2 cool features and also Google Maps introducing the ability to search for locations along your drive. I hope there's more coming!
+I've always wondered why there have not been any feature improvements in Navigation for a long time - it has been more than 6 years since Google Maps had turn by turn navigation. (Maybe all it took now was a Product Manager at Waze who cared enough about reaching the destination on time.) In the last few months we've had Waze introduce 2 cool features and also Google Maps introducing the ability to search for locations along your drive. I hope there's more coming!
