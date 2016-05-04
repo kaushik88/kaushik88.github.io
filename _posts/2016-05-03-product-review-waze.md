@@ -8,7 +8,7 @@ categories:
 thumbnail_path: blog/personal/waze.jpg
 ---
 
-I first heard good things about Waze through [this](https://www.linkedin.com/pulse/what-makes-truly-great-product-jeff-weiner) blog post by Jeff Weiner about a year ago. However, until recently, I hardly used any of the Navigation apps - I've lived long enough in this area and I tend to listen to music or talk to friends during drives. However, Waze recently introduced a couple of new features that got my attention and I've already become a daily Waze user!
+About a year ago, Jeff Weiner wrote a blog post about [building great products](https://www.linkedin.com/pulse/what-makes-truly-great-product-jeff-weiner) and he called out Waze as an app that is *simple, intuitive and easy to use*. However, I wasn't a frequent user of the Navigation apps as I've lived long enough in this area and I tend to listen to music or audibooks during drives. Recently, Waze recently introduced a couple of new features that got my attention and I've already become a daily Waze user!
 
 {% include figure.html path="blog/personal/waze.jpg" alt="Waze" %}
 
@@ -18,13 +18,13 @@ Last Thanksgiving, I was flying out of the Stockton Metropolitan airport - rough
 
 {% include figure.html path="blog/personal/waze-plan.jpg" alt="Waze Plan" %}
 
-If I want to reach office on time for a 10 AM meeting, Waze keeps checking the traffic and prompts me when I need to leave home so that I reach office by 10 AM. Simple, intuitive and genius!
+This feature lets you enter the time you would like to reach your destination and would automatically alert you to start accordingly after taking traffic into consideration. In the exampel above, if I want to reach office on time for a 10 AM meeting, Waze keeps checking the traffic and prompts me when I need to leave home. Simple, intuitive and genius!
 
 **Sharing Your Drive**
 
-This feature lets you share your drive to other people (even if they're not on Waze!) in *realtime*. As you drive to the destination, the people to whom you've shared the drive can see your current location and track your ETA.
+This feature lets you share your drive to other people (even if they're not on Waze!) in *realtime*. As you drive to the destination, the people to whom you've shared the drive can see your current location and also track your ETA.
 
-This makes the co-ordination among multiple people who are meeting at the same destination so much easier! I'm not sure if Waze has an enterprise version but if they do, I could also see this being monetized for businesses like Truck Fleet Management, Postal Services and the likes.
+Co-ordination among multiple people who are meeting at the same destination is so much easier with this new feature. Another use case for this is in the enterprize side - I'm not sure if Waze has an enterprise version but if they do, I could see this being monetized for businesses like Truck Fleet Management, Postal Services and the likes.
 
 {% include figure.html path="blog/personal/waze-share.jpg" alt="Waze Share" %}
 
