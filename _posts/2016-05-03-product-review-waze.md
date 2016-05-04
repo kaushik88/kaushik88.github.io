@@ -8,17 +8,17 @@ categories:
 thumbnail_path: blog/personal/waze.jpg
 ---
 
-About a year ago, Jeff Weiner wrote a blog post about [building great products](https://www.linkedin.com/pulse/what-makes-truly-great-product-jeff-weiner) and he called out Waze as an app that is *simple, intuitive and easy to use*. However, I wasn't a frequent user of the Navigation apps as I've lived long enough in this area and I tend to listen to music or audibooks during drives. Recently, Waze recently introduced a couple of new features that got my attention and I've already become a daily Waze user!
+About a year ago, Jeff Weiner wrote a blog post about [building great products](https://www.linkedin.com/pulse/what-makes-truly-great-product-jeff-weiner) and he called out Waze as an app that is *simple, intuitive and easy to use*. I wanted to give Waze a try then but navigation wasn't of daily use to me as I lived close to work. Recently, Waze recently introduced a couple of new features that complements navigation - the ability to plan your drive and also share it with others in realtime. I've become an active Waze user since and this blog post is about these two features.
 
 {% include figure.html path="blog/personal/waze.jpg" alt="Waze" %}
 
 **Planning Your Drive**
 
-Last Thanksgiving, I was flying out of the Stockton Metropolitan airport - roughly 90 minutes drive from my place. Due to the long weekend, the traffic was a lot worse and I was constantly checking how much time in advance I needed to leave so that I can reach the airport on time. (It turned out to be a 3 hour drive). At that time, I was wishing Google Maps or Waze could automate this for me and a few months later - they did!
+Last Thanksgiving, I was flying out of the Stockton Metropolitan airport - roughly 90 minutes drive from my place. Due to the long weekend, I was expecting the traffic to be worse and hence I was constantly calculating my start time so that I can reach the airport on time. (It turned out to be a 3 hour drive). At that time, I was hoping I didn't have to do the calculation myself and Google Maps or Waze could automate this for me.
 
 {% include figure.html path="blog/personal/waze-plan.jpg" alt="Waze Plan" %}
 
-This feature lets you enter the time you would like to reach your destination and would automatically alert you to start accordingly after taking traffic into consideration. In the exampel above, if I want to reach office on time for a 10 AM meeting, Waze keeps checking the traffic and prompts me when I need to leave home. Simple, intuitive and genius!
+This feature lets you enter the time you would like to reach your destination and based on the traffic, would alert you to start accordingly. In the exampel above, if I want to reach office on time for a 10 AM meeting, Waze keeps checking the traffic and prompts me when I need to leave home. Simple, intuitive and genius indeed!
 
 **Sharing Your Drive**
 
