@@ -5,12 +5,14 @@ tags:
 - DeepWork
 categories:
 - Learn
-thumbnail_path: blog/personal/Deep-Work-Routines.png
+thumbnail_path: blog/personal/Attention-Residue.png
 ---
 
-In his book Deep Work, Cal Newport talks about the concept of **Attention Residue**. When we switch from Task A to Task B, the attention usually doesn't immediately follow, a residue of our attention remains stuck thinking about Task A. The concept of Attention Residue was first introduced by Sophie Leroy in her research paper, [Why is it so hard to do my work](http://www.sciencedirect.com/science/article/pii/S0749597809000399).
+In his book Deep Work, Cal Newport talks about the concept of **Attention Residue**. When we switch from Task A to Task B, the attention usually doesn't immediately follow, a residue of our attention remains stuck thinking about Task A. The concept of Attention Residue was first introduced by Sophie Leroy in her research paper [Why is it so hard to do my work](http://www.sciencedirect.com/science/article/pii/S0749597809000399).
 
-Based on her research, Sophie claimed that the residue is thicker if our work on Task A, before swithcing to Task B, is any of the following *unbounded, low intensity (binge watching or mindless internet browsing) and incomplete*. The intensity of focus on the next task reduces as the attention residue thickens.
+{% include figure.html path="blog/personal/Attention-Residue.png" alt="Attention Residue" %}
+
+Based on her research, Sophie claimed that the residue is thicker if our work on Task A, before swithcing to Task B, is *unbounded, low intensity (binge watching or mindless internet browsing) and incomplete*. Our intensity of focus on Task B reduces as the attention residue thickens and thus a lower quality of work.
 
 > Quality of work = (Intensity of focus * Time Spent)
 
