@@ -2,7 +2,7 @@
 layout: post
 title: "How was your day?"
 tags:
-- Product
+- Relationship
 categories:
 - Learn
 thumbnail_path: blog/personal/day.jpg
