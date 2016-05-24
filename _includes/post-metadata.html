@@ -3,6 +3,7 @@
 <div class="gray h6">
   <i class="fa fa-calendar"></i>
   <time datetime="{{ include.post.date | date:"%Y-%m-%d" }}">{{ include.post.date | date:"%b %d, %Y" }}</time>
+  | {{ param }} read | 
   {% if include.post.tags.size > 0 %} 
     <span class="ml1">
       <i class="fa fa-tags"></i>

@@ -12,6 +12,7 @@
     <a href="{{ include.post.url }}"><h2 class="mt0">{{ include.post.title }}</h2></a>
     <p class="mb0 left-align">{{ include.post.excerpt | strip_html | truncate: 165, '...'  }} 
     <div><a href="{{ include.post.url }}" class="h6">Continue Reading &raquo;</a></p></div>
+    {% capture param %}{{ include.post.content | reading_time_as_i }}{% endcapture %}    
     {% include post-metadata.html post=include.post %}
   </div>
 </article>
