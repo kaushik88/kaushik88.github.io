@@ -8,7 +8,7 @@ categories:
 thumbnail_path: blog/personal/intel.jpg
 ---
 
-In the 1970s, Intel was one of the main manufacturers of the memory (RAM). However, by the end of the 1970s a couple of Japanese competitors had emerged and by the early 1980s, the company’s competitive position in the memory business came under serious threat. Meanwhile, a small team at Intel had developed another product, the microprocessor, and slowly it was starting to get more traction.
+In the 1970s, Intel was one of the main manufacturers of the memory. However, by the end of the 1970s a couple of Japanese competitors had emerged and by the early 1980s, the company’s competitive position in the memory business came under serious threat. Meanwhile, a small team at Intel had developed another product, the microprocessor, and slowly it was starting to get more traction.
 
 {% include figure.html path="blog/personal/moore-grove.jpg" alt="Gordon Moore and Andy Grove" %}
 
