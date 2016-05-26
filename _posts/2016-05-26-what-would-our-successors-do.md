@@ -2,7 +2,7 @@
 layout: post
 title: "What would our successors do?"
 tags:
-- Relationship
+- Decisions
 categories:
 - Learn
 thumbnail_path: blog/personal/intel.jpg
