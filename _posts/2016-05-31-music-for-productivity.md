@@ -18,7 +18,7 @@ As I thought about the kind of music I usually listen to while working, 3 charac
 
 2. Monotonous or Repetitive music.
 
-3. Songs that I don't care about too much.
+3. Songs that I don't really care about.
 
 Thanks to AR Rahman for the many hours of productivity! A couple of songs from my productivity play-list - 
 
