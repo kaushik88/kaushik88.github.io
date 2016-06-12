@@ -14,9 +14,9 @@ A few months ago, I was playing in a badminton tournament and someone in the top
 *"I could take that smash!"*. <br/>
 *"Maybe I could defeat these guys"*. <br/>
 
-I gave myself a small prep talk and started the first match. It was 2-2 and after a long rally, I sprinted from the left side of the court to the right and in full stretch, I hit a perfect cross-court drop shot, wrong-footing the opponent and thus winning the point. My confidence was sky rocket high now and after some good rallies I got to 6-8. I was playing at my best and I had the belief that I could win. However I ended up losing the match **7-21**. 
+I gave myself a small pep talk and started the first match. It was 2-2 and after a long rally, I sprinted from the left side of the court to the right and in full stretch, I hit a perfect cross-court drop shot, wrong-footing the opponent and thus winning the point. My confidence was sky rocket high now and after some good rallies I got to 6-8. I was playing at my best and I had the belief that I could win. However I ended up losing the match **7-21**. 
 
-I shrugged it off convincing myself it was an off-match and decided to try again in the next one. However, in the next match the same thing happened - prep talk in the mind at the beginning, amazing rallies at the start of the match to come to 7-9 and ended up losing the match **9-21**. After losing the next 3 matches in a similar fashion (8-21, 11-21 and 9-21), I was a little disappointed and frustrated.
+I shrugged it off convincing myself it was an off-match and decided to try again in the next one. However, in the next match the same thing happened - pep talk in the mind at the beginning, amazing rallies at the start of the match to come to 7-9 and ended up losing the match **9-21**. After losing the next 3 matches in a similar fashion (8-21, 11-21 and 9-21), I was a little disappointed and frustrated.
 
 A couple of lessons from this - 
 
