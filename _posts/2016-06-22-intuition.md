@@ -8,7 +8,7 @@ categories:
 thumbnail_path: blog/personal/intuition.jpg
 ---
 
-In the book **The Power of Vulnerability**, Brene Brown talks about cultivating intuition and why this is important for happiness and a whole-hearted living. Here's how she defines intuition - 
+In the book **The Power of Vulnerability**, Brene Brown talks about cultivating intuition and why this is important for happiness and whole-hearted living. Here's how she defines intuition - 
 
 > Intuition is a cognitive process - it is taking a situation and running through all our experiences and seeing how and where it fits. <br/> <br/> Intuition is not a single way of knowing, it is our ability to hold space for uncertainty and our willingness to trust the many ways we've developed knowledge and insights including instinct, gut, experience, faith and reason.
 
