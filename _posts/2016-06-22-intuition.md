@@ -18,11 +18,11 @@ In the book **The Power of Vulnerability**, Brene Brown talks about cultivating 
 
 2. **Letting go of the need for certainty** - While it is good to fact-check all your assumptions, you're going to make a lot of decisions in your life (even the big ones) when you don't have all the data. Learn to get comfortable making these decisions by letting go of the need for certainty. The only way to cultivate intuition is by practicing it - start early with smaller decisions and slowly raise the stakes.
 
-3. **When Your Decisions Don't Pan Out** - The first thing that happens when our intuitions go wrong in big decisions is that we stop trusting ourselves and what we think we know. This becomes a very dangerous proposition as this leads to one of the following two scenarios - 
+3. **When Your Decisions Don't Pan Out** - The first thing that happens when our intuitions go wrong is that we stop trusting ourselves and what we think we know. This becomes a very dangerous proposition as this leads to one of the following two scenarios - 
 
-	a. You take a really long time to decide - You start pulling people about what you should do and you feel uneasy/queasy when you do that. <br/>
+	a. You start pulling people about what you should do; you feel uneasy/queasy when you do that. <br/>
 
-	b. When forced to decide now, you back out - You're uncomfortable making a decision now and when the situation demands one, you back out.
+	b. You back out - When faced with a big decision, your gut or instinct asks you to go for it while your distrust or fear is holding you back.
 
 Intuition is finding that sweet spot between the above two scenarios!
 
