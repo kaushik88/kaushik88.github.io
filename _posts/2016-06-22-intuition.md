@@ -20,7 +20,7 @@ In the book **The Power of Vulnerability**, Brene Brown talks about cultivating 
 
 3. **When Your Decisions Don't Pan Out** - The first thing that happens when our intuitions go wrong is that we stop trusting ourselves and what we think we know. This becomes a very dangerous proposition as this leads to one of the following two scenarios - 
 
-	a. You start pulling people about what you should do; you feel uneasy/queasy when you do that. <br/>
+	a. You start polling people about what you should do; you feel uneasy/queasy when you do that. <br/>
 
 	b. You back out - When faced with a big decision, your gut or instinct asks you to go for it while your distrust or fear is holding you back.
 
