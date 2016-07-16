@@ -8,7 +8,7 @@ categories:
 thumbnail_path: blog/personal/advice2.jpeg
 ---
 
-There's a lot of free (and bad) advice available in the open world and over time you have to get better at identifying the few good ones. 
+There's a lot of free (and bad) advice available in the open world and over time you have to get better at identifying the few good ones. Don't get me wrong here, I'm not saying they're bad people or they've bad intentions but just the fact that they might not know the entire situation or context and hence the advice might not apply to **you**.
 
 My thoughts on this process - 
 
