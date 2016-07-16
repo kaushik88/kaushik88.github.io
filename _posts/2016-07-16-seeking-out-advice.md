@@ -20,7 +20,7 @@ My thoughts on this process -
 
 4. Make Your Own Decision - As it is you who has to live with it and face the consequences.
 
-I really liked Seth Godin's [post](http://sethgodin.typepad.com/seths_blog/2014/05/good-advice.html) on this topic -
+You might also like Seth Godin's [post](http://sethgodin.typepad.com/seths_blog/2014/05/good-advice.html) on this topic -
 
 ---
 Good Advice is ...
