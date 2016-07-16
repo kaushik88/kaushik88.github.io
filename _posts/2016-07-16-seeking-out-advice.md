@@ -8,18 +8,7 @@ categories:
 thumbnail_path: blog/personal/advice2.jpeg
 ---
 
-There's a lot of free (and bad) advice available in the open world and over time you have to get better at identifying the few good ones. I really liked Seth Godin's [post](http://sethgodin.typepad.com/seths_blog/2014/05/good-advice.html) on this topic -
-
----
-Good Advice is ...
-
-Not what you want to hear, but what you need to hear. <br/>
-Not imaginary, but practical. <br/>
-Not based on fear, but on possibility. <br/> 
-Not designed to make you feel better, designed to make you better. <br/>
-
-Seek it out and embrace the true friends that care enough to risk sharing it. I'm not sure what takes more guts — giving it or getting it.
---- 
+There's a lot of free (and bad) advice available in the open world and over time you have to get better at identifying the few good ones. 
 
 My thoughts on this process - 
 
@@ -30,3 +19,15 @@ My thoughts on this process -
 3. Take it with a pinch of salt - No one knows/cares about you as much as you do.
 
 4. Make Your Own Decision - As it is you who has to live with it and face the consequences.
+
+I really liked Seth Godin's [post](http://sethgodin.typepad.com/seths_blog/2014/05/good-advice.html) on this topic -
+
+---
+Good Advice is ...
+
+Not what you want to hear, but what you need to hear. <br/>
+Not imaginary, but practical. <br/>
+Not based on fear, but on possibility. <br/> 
+Not designed to make you feel better, designed to make you better. <br/> <br/>
+
+--- 
