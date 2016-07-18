@@ -18,7 +18,7 @@ In my earlier [post](http://kaushik88.github.io/blog/2016/07/16/seeking-out-advi
 
 I've been lucky to have great mentors and friends and I've always loved those conversations. A few things I've learnt on offering advice - 
 
-1. State your **assumption and bias** - This is probably the most important thing and it really helps the other person. It helps the other person understand your situation or motivation and also makes them evaluate if it applies to them.
+1. State your **assumption and bias** - This is probably the most important thing and it really helps the other person. It helps the other person understand your situation or motivation and also makes them evaluate if your assumptions applies to them.
 
 2. Let the other person talk - Be a good listener, sometimes the other person just wants to brainstorm ideas with someone.
 
