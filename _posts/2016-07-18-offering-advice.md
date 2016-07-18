@@ -16,8 +16,6 @@ In my earlier [post](http://kaushik88.github.io/blog/2016/07/16/seeking-out-advi
 
 > I'm not sure what takes more guts — giving advice or getting it.
 
-{% include figure.html path="blog/personal/advice.jpeg" alt="Offering Advice" %}
-
 I've been lucky to have great mentors and friends and I've always loved those conversations. A few things I've learnt on offering advice - 
 
 1. State your **assumption and bias** - This is probably the most important thing and it really helps the other person. It helps the other person understand your situation or motivation and also makes them evaluate if it applies to them.
@@ -30,4 +28,4 @@ I've been lucky to have great mentors and friends and I've always loved those co
 
 5. Ease the Pressure - Wherever applicable, use phrases like 'You'd be fine either ways' or 'You cannot go wrong whichever option you pick'. More often than not, it is the confidence that they need.
 
-Happy Monday!
+{% include figure.html path="blog/personal/advice.jpeg" alt="Offering Advice" %}
