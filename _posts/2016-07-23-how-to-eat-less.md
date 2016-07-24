@@ -2,7 +2,7 @@
 layout: post
 title: "How to eat less"
 tags:
-- Do
+- Eat
 categories:
 - Learn
 thumbnail_path: blog/personal/food.jpg
