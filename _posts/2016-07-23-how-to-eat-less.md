@@ -8,7 +8,7 @@ categories:
 thumbnail_path: blog/personal/food.jpg
 ---
 
-At dinner, a couple of us were having fun mocking at our friend for eating less. He had been eating the right amount, or he was dieting from our perspective, and was having a tough(er) time doing it eating with us. I quickly imagined myself in his shoes and here are a few things that come to my mind to avoid this - 
+At dinner, a couple of us were having fun criticizing our friend for eating less. He had been eating the right amount, or he was dieting from our perspective, and was having a tough(er) time doing it eating with us. I quickly imagined myself in his shoes and here are a few things that come to my mind to avoid this - 
 
 1. Take more time to eat your food - People mostly judge you based on the time you take to eat your food. 
 
