@@ -24,4 +24,4 @@ Start with why!
 
 Another key takeaway from this book is regarding what motivates teams and partnerships. If everyone in the team has the same line of thought on all the discussions, it is going to be difficult for each of them to learn from one another and grow. For a team to be motivated and constantly learning, they have to agree on the **Whys** (the values and the purpose) but differ on some of the **Hows** (the process). 
 
-Jobs and Wozniack, Gates and Paul-Allen, Walt and Disney, Federer and Nadal - it is the differing styles, personalities and the hows that pushed each other and enabled them be a better version of themselves.
+Jobs and Wozniack, Gates and Paul Allen, Federer and Nadal - it is the differing styles, personalities and the hows that pushed each other and enabled them be a better version of themselves.
