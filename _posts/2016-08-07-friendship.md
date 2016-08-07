@@ -8,7 +8,7 @@ categories:
 thumbnail_path: blog/personal/friendship.jpg
 ---
 
-Since the rise of Facebook, a friend has been an overused relationship - most of us have hundreds or thousands of friends even though we're actively (or even passively) interacting with only with a fraction of them. Friendship means a lot to me. As I was growing up, I spent a lot of my time with my friends and they have played a huge role in getting me to where I'm today. It is also special as it is the first relationship that we get to choose, we don't get to choose our parents, siblings and relatives. This blog post is my take on this relationship. This is just one of my perspectives and I'm sure there are plenty others out there - so take it with a pinch of salt.
+Friendship means a lot to me. As I was growing up, I spent a lot of my time with my friends and they have played a huge role in getting me to where I'm today. It is also special as it is the first relationship that we get to choose, we don't get to choose our parents, siblings and relatives. This blog post is my take on this relationship. This is just one of my perspectives and I'm sure there are plenty others out there - so take it with a pinch of salt.
 
 {% include figure.html path="blog/personal/friend.jpg" alt="Friendship" %}
 
