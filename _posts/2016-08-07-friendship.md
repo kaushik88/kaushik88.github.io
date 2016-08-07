@@ -18,9 +18,10 @@ I was hiking with a good friend of mine a couple of months ago and I was trying 
 
 > What's the easiness with which you can have a honest but difficult conversation with your friend? 
 
-A good friend of mine shared this wonderful post about [Difficult Conversations](http://alearningaday.com/2010/10/difficult-conversations/). I don't think I can define it any better and sharing it here - 
+A good friend of mine shared this wonderful post about [Difficult Conversations](http://alearningaday.com/2010/10/difficult-conversations/). I don't think I can define it any better - 
 
 ---
+
 It takes courage to accept what you feel..
 as you are often riddled with self doubt about whether it is justified.
 
@@ -33,12 +34,9 @@ as common practice would mean getting back at him/her.
 It takes tremendous courage to vent out your frustrations at the risk of upsetting another person..
 as the ‘easy’ path would be to try and sweep those frustrations under the carpet.
 
-After all, strength comes not from hiding weakness, but from accepting weakness and acting on it.
+After all, strength comes not from hiding weakness, but from accepting weakness and acting on it. There are times when people you love make you proud by showing tremendous courage. Celebrate it.. shout it out.. 
 
-—
-There are times when people you love make you proud by showing tremendous courage. Celebrate it.. shout it out..
-
-I sure am..
+I sure am.
 
 ---
 
