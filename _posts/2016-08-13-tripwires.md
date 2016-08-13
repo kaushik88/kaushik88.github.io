@@ -5,7 +5,7 @@ tags:
 - Decisions
 categories:
 - Learn
-thumbnail_path: blog/personal/kick.jpg
+thumbnail_path: blog/personal/trip.jpg
 ---
 
 In decision-making, we usually make a decision based on certain facts and assumptions and go about executing the decision on auto-pilot mode. Tripwire is a process that helps us go back and check if the assumptions have changed for us to reconsider our decision or even make a new one. A tripwire specifies the circumstances when we would reconsider a decision - *"If X happens or if Y changes, we’ll take another look at our decision".*
