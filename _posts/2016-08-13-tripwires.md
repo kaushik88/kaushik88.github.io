@@ -8,9 +8,11 @@ categories:
 thumbnail_path: blog/personal/kick.jpg
 ---
 
-In decision-making, we usually make a decision based on certain facts and assumptions and go about executing the decision on auto-pilot mode. Tripwire is a process that helps us go back and check if the assumptions have changed for us to reconsider our decision or even make a new one. A tripwire specifies the circumstances when we would reconsider a decision - "If X happens or if Y changes, we’ll take another look at our decision".
+In decision-making, we usually make a decision based on certain facts and assumptions and go about executing the decision on auto-pilot mode. Tripwire is a process that helps us go back and check if the assumptions have changed for us to reconsider our decision or even make a new one. A tripwire specifies the circumstances when we would reconsider a decision - *"If X happens or if Y changes, we’ll take another look at our decision".*
 
-**Why Do We Need a Tripwire?** - The main reason why we need a tripwire is because **change** is so gradual that it is really hard to notice it. Also, you might not be in the best possible state of mind after you've invested a lot of time and money in the decision. This is best illustrated with the story of how [Kodak](https://en.wikipedia.org/wiki/Kodak) went from a pioneer in film cameras to filing for bankruptcy in 2011. 
+**Why Do We Need a Tripwire?** <br/>
+
+The main reason why we need a tripwire is because **change** is so gradual that it is really hard to notice it. Also, you might not be in the best possible state of mind after you've invested a lot of time and money in the decision. This is best illustrated with the story of how [Kodak](https://en.wikipedia.org/wiki/Kodak) went from a pioneer in film cameras to filing for bankruptcy in 2011. 
 
 In the 1970s, **Kodak** was the primary manufacturer of film cameras and the the stage was slowly getting set for another revolution - digital photography. NASA had used digital photography to send photos back to earth, Texas Instruments had filed a couple of patents on digital photography and Sony had introduced the first commercial electronic camera. The leaders at Kodak observed all these events and decided to continue focusing on film cameras based on the following assumptions - 
 
@@ -32,7 +34,7 @@ There are 3 kinds of tripwires that I can think of -
 
 **Does it make you risk-averse?** - I'd like to argue the opposite. Setting a tripwire carves out a safe space when you make decisions and gives you a peace of mind until you trip. It helps you make bold decisions in the long run. Instead of going *all-in* in a Poker game, tripwire gives you time to look at your cards, make intelligent risks and play longer!
 
-Couldn't we all use a few tripwires in our lives? We could have a “trigger weight” that signaled the need to exercise more or we could have a trigger date on the calendar that reminded us to ask whether we’re investing enough in our relationships.
+Couldn't we all use a few tripwires in our lives? We could have a *trigger weight* that signaled the need to exercise more or we could have a *trigger date* on the calendar that reminded us to ask whether we’re investing enough in our relationships.
 
 P.S. If you've watched the movie [The Inception](http://www.imdb.com/title/tt1375666), then the concept of a **kick** is similar to a tripwire - snaps you awake and brings you back to reality :).
 
