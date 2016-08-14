@@ -8,7 +8,7 @@ categories:
 thumbnail_path: blog/personal/tennis.jpg
 ---
 
-This summer, a close friend and I started playing tennis every week. Both of us are really competitive (lots of shouting in anger and frustration) and analytical and hence at the end of the match, we would end up discussing the match. More specifically, where we think the match was won and where we could improve and things to work on for the next week. This blog post is about the learnings from one such conversation.
+This summer, a close friend and I started playing tennis every week. Both of us are really competitive (a few shouts of frustration) and analytical and hence at the end of the match, we would end up discussing the match. More specifically, where we think the match was won and where we could improve and things to work on for the next week. This blog post is about the learnings from one such conversation.
 
 ---
 
