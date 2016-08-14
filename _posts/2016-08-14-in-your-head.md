@@ -22,14 +22,13 @@ I ended winning my service game and breaking him to get back on serve at 2-3. <b
 
 **2-3 changeover**
 
-I felt good, played a good couple of games and hit a few winners. Looking back, I was probably over-confident and I was dreaming about smashing a winner of every point. My friend realized that his dreams of 6-0 is now gone and told himself to put the ball back in and play each point.
+I felt good, played a good couple of games and hit a few winners. Looking back, I was probably over-confident and I was dreaming about smashing a winner of every point. My friend realized that his dreams of 6-0 is now gone and told himself to put the ball back in and play each point by it's merit.
 
 He ended up winning the set **6-2**.
 
 --
 
 {% include figure.html path="blog/personal/head.png" alt="It's all in your head." %}
-
 
 One can clearly see why Tennis is a battle of the minds and if you'd ask me - the games were won in the minds in the couple of changeovers. This reminded me of a phrase in the poem *If by Rudyard Kipling* - 
 
