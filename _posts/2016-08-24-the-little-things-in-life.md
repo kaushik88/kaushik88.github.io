@@ -15,3 +15,5 @@ I was spending time with my 2 year-old niece and after her afternoon nap, she go
 As I spent more time with her, I saw her being happy and celebrating her daily activities - a long bath, a good meal, an evening stroll in the park, watching rhymes on TV, mom's hug and spending time with her dad. As adults, we don't really appreciate the smaller things in life and we often look for big moments and reasons to celebrate.
 
 It's amazing how much we can learn from kids!
+
+P.S. The image is just an image of a baby I found on the Internet!
