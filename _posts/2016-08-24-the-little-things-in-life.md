@@ -2,13 +2,13 @@
 layout: post
 title: "The Little Things In Life"
 tags:
-- happy
+- Happy
 categories:
 - Learn
 thumbnail_path: blog/personal/happiness.jpg
 ---
 
-I was spending time with my 2 year-old niece and after her afternoon nap, she got up and gave me a good smile. I looked at her and immediately I knew this is what **pure happiness** must look like. I asked my sister why is she so happy and she replied - *"She just had a good afternoon nap and she's happy!"*
+I was spending time with my 2 year-old niece and after her afternoon nap, she got up and gave me a good smile. I looked at her and I immediately knew this is what **pure happiness** must look like. I asked my sister why is she so happy and she replied - *"She just had a good afternoon nap and she's happy!"*
 
 {% include figure.html path="blog/personal/happiness.jpg" alt="Happy Baby" %}
 
