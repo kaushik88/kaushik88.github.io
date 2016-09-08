@@ -9,8 +9,7 @@ categories:
 thumbnail_path: blog/personal/mother.jpg
 ---
 
-> A mother is a person who seeing there are only four pieces of pie for five people promptly announces she never 
-> did care for pie — Tenneva Jordan.
+> A mother is a person who seeing there are only four pieces of pie for five people promptly announces she never did care for pie — Tenneva Jordan.
 
 I can’t think of a better quote to summarize my mother’s character. This Sunday on May 10, I get to spend Mother’s day with her after so many years. While commercialism might be the motive in celebrating days like these, it is not everyday that I get to thank her for all the sacrifices and learnings. This blogpost is dedicated to my mother!
 
