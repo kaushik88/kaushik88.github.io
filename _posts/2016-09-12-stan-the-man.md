@@ -14,7 +14,7 @@ After a long time, I got to watch an entire Tennis match. I guess I'm still tryi
 
 **What does it take to win?** - Whenever you're aiming for something big in life, the key question to ask is - *What are you willing to sacrifice to achieve that?* At the post match ceremony, Stan admits to going through a lot of pain in the last 2 weeks. However, coming in he not only was expecting to suffer but now has started to enjoy the pain.
 
-**Confidence plays a BIG factor** - One fact that surprised me after the match is that Stan has won the last 11 finals dating back to 2014. Stan starts the tournament slowly but picks up momentum and confidence as he wins more matches. Even during the finals yesterday, he had a rough start but once he gained confidence, was a treat to watch in the last 2 sets.
+**Confidence plays a BIG factor** - One fact that surprised me after the match is that Stan has won the last 11 finals dating back to 2014. Stan starts the tournament slowly but picks up momentum and confidence as he wins more matches. Even during the finals yesterday, he had a rough start but once he gained confidence, he was a treat to watch in the last 2 sets.
 
 {% include figure.html path="blog/personal/stan.jpg" alt="Stan The Man" %}
 
