@@ -8,7 +8,7 @@ categories:
 thumbnail_path: blog/personal/voice.jpg
 ---
 
-In his book *Originals*, Adam Grant talks about *exit*, *voice*, *persist* and *neglect* - the 4 choices people have when handling a dissatisfying situation.
+In his book *Originals*, Adam Grant talks about the 4 choices people have when handling a dissatisfying situation - *exit*, *voice*, *persist* and *neglect*.
 
 **Exit** - Exit means removing yourself from the situation altogether. This could mean quitting your job, ending your marriage or just walking out on a heated argument.
 
@@ -27,3 +27,5 @@ The 4 options can be seen as a trade-off between control (Do you believe you can
 If you feel you can't make a difference, then you would choose to **persist** if you're committed and you'd **neglect** if you aren't.
 
 If you feel you can make a difference, then you would choose to **voice** if you're committed and you'd **quit** if you aren't.
+
+*source - [Originals](https://www.amazon.com/Originals-How-Non-Conformists-Move-World/dp/0525429565) by Adam Grant**
