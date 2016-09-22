@@ -28,4 +28,4 @@ If you feel you can't make a difference, then you would choose to **persist** if
 
 The Originals are the committed individuals who think they can make a difference!
 
-*source - [Originals](https://www.amazon.com/Originals-How-Non-Conformists-Move-World/dp/0525429565) by Adam Grant**
+*source - [Originals](https://www.amazon.com/Originals-How-Non-Conformists-Move-World/dp/0525429565) by Adam Grant*
