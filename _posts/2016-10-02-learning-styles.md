@@ -20,4 +20,4 @@ So, what's your learning style?
 
 {% include figure.html path="blog/personal/learningStyle.jpg" alt="What's your learning style?" %}
 
-P.S. A friend of mine recommended me the Coursera course [*Learning How To Learn*](https://www.coursera.org/learn/learning-how-to-learn). 
+P.S. A friend of mine also recommended me the Coursera course [*Learning How To Learn*](https://www.coursera.org/learn/learning-how-to-learn). You might want to check it out to learn more :)
