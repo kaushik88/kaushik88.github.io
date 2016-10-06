@@ -2,7 +2,7 @@
 layout: post
 title: "A Secret About Winning"
 tags:
-- books
+- Books
 categories:
 - Learn
 thumbnail_path: blog/personal/agassi.jpg

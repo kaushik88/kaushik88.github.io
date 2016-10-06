@@ -2,7 +2,7 @@
 layout: post
 title: "Start With Why"
 tags:
-- books
+- Books
 categories:
 - Learn
 thumbnail_path: blog/personal/startWithWhy.jpg

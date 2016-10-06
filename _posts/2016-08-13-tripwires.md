@@ -12,7 +12,7 @@ In decision-making, we usually make a decision based on certain facts and assump
 
 **Why Do We Need a Tripwire?** <br/>
 
-The main reason why we need a tripwire is because **change** is so gradual that it is really hard to notice it. Also, you might not be in the best possible state of mind after you've invested a lot of time and money in the decision. This is best illustrated with the story of how [Kodak](https://en.wikipedia.org/wiki/Kodak) went from a pioneer in film cameras to filing for bankruptcy in 2011. 
+The main reason why we need a tripwire is because **change** is so gradual that it is really hard to notice it. Also, you might not be in the best possible state of mind after you've invested a lot of time and money in the decision. This is best illustrated with the story of how [Kodak](https://en.wikipedia.org/wiki/Kodak) went from a pioneer in film cameras to filing for bankruptcy in 2011.
 
 In the 1970s, **Kodak** was the primary manufacturer of film cameras and the the stage was slowly getting set for another revolution - digital photography. NASA had used digital photography to send photos back to earth, Texas Instruments had filed a couple of patents on digital photography and Sony had introduced the first commercial electronic camera. The leaders at Kodak observed all these events and decided to continue focusing on film cameras based on the following assumptions - 
 

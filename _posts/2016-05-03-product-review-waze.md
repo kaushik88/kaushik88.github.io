@@ -22,9 +22,9 @@ This feature does exactly that - lets you enter the time you would like to reach
 
 **Sharing Your Drive**
 
-This feature lets you share your drive to other people (even if they're not on Waze!) in *realtime*. As you drive to the destination, the people to whom you've shared the drive can see your current location and also track your ETA.
+This feature lets you share your drive to other people (even if they're not on Waze!) in *real-time*. As you drive to the destination, the people to whom you've shared the drive can see your current location and also track your ETA.
 
-Co-ordination among multiple people who are meeting at the same destination is so much easier with this new feature. Another use case for this is in the enterprize side - I'm not sure if Waze has an enterprise version but if they do, I could see this being monetized for businesses like Truck Fleet Management, Postal Services and the likes.
+Co-ordination among multiple people who are meeting at the same destination is so much easier with this new feature. Another use case for this is in the enterprise side - I'm not sure if Waze has an enterprise version but if they do, I could see this being monetized for businesses like Truck Fleet Management, Postal Services and the likes.
 
 {% include figure.html path="blog/personal/waze-share.jpg" alt="Waze Share" %}
 

@@ -10,7 +10,7 @@ thumbnail_path: blog/personal/good-ideas.jpg
 
 In the book **Where Good Ideas Come From**, Steven Johnson discusses the 7 common themes around innovation and creativity. Most of the examples in the book are centered around *evolution* and *technology*; the book is a fun read if these topics interest you! 
 
-Before going over the themes, here's the TLDR version of the book, (my favority lines) - 
+Before going over the themes, here's the TLDR version of the book, (my favorite lines) - 
 
 > Go for a run, cultivate hunches; write everything down, but keep your folders messy; embrace serendipity; make generative mistakes; take on multiple hobbies; frequent coffeehouses and other liquid networks; follow the links; let others build your own ideas; borrow, recycle, reinvent.
 
@@ -22,7 +22,7 @@ Before going over the themes, here's the TLDR version of the book, (my favority 
 
 **4. Serendipity** - Innovative ideas have mostly come at unexpected times/places - running trail or a bath tub (Archimedes) for example. Try to embrace serendipity - mindfulness helps :)
 
-**5. Error** - I loved this quote from the book - *'Being right keeps you in place; Being wrong forces you to explore!'*. Being wrong doesn't automatically open the ajacent possible, but it forces us to look for one. It challenges our existing assumption and makes us come with new strategies. 
+**5. Error** - I loved this quote from the book - *'Being right keeps you in place; Being wrong forces you to explore!'*. Being wrong doesn't automatically open the adjacent possible, but it forces us to look for one. It challenges our existing assumption and makes us come with new strategies. 
 
 **6. Exaptation** - Exaptation is taking an idea or a concept from one field and applying it to another field. We usually tend to be more innovative or we tend to learn from people who are different than us. An example that comes to my mind is Jobs and Wozniak - they complimented each other well and created Apple. Another example in the world of Sports is the rivalry between Nadal and Federer - both have become a better player thanks to one another.
 

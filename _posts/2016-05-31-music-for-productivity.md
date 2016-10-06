@@ -2,7 +2,7 @@
 layout: post
 title: "Music For Productivity"
 tags:
-- music
+- Music
 categories:
 - Learn
 thumbnail_path: blog/personal/music2.jpg

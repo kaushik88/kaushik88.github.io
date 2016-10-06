@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Advice"
+title: "Seeking Advice"
 tags:
 - Advice
 categories:

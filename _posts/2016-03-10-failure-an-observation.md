@@ -18,7 +18,7 @@ A minor disappointment today got me thinking about the different ways in which e
 
 **Blame** - The most common reaction - it is easy, makes you feel better and we all love doing it.
 
-**Sympathize** - So what I failed in X, *atleast* I'm successful in A,B and C.
+**Sympathize** - So what I failed in X, *at-least* I'm successful in A,B and C.
 
 **Share** - This works to some extent - if you don't overdo it and if you're willing to accept feedback!
 

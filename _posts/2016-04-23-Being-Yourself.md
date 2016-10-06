@@ -28,5 +28,5 @@ Shifu goes back to rest and then Master Oogway (Shifu's master) delivers the pun
 
 {% include figure.html path="blog/personal/OogwayShifu.png" alt="Master Oogway and Master Shifu" %} 
 
-Everytime we admire a quality in someone else, we immediately try to change ourselves to some version of the other person. More often than not the change is shortlived and we end up losing our originality. True and lasting change comes when we imbibe the quality or change by adding our own signature/style to it.
+Everytime we admire a quality in someone else, we immediately try to change ourselves to some version of the other person. More often than not the change is short-lived and we end up losing our originality. True and lasting change comes when we imbibe the quality or change by adding our own signature/style to it.
 
