@@ -8,7 +8,9 @@ categories:
 thumbnail_path: blog/personal/Originals.jpg
 ---
 
-In his book *Originals : How Non-Conformists Move The World*, Adam Grant talks about how everyone could be an original - how they can generate new ideas, how they can voice and champion them and also how one can manage their emotions when they deal with opposition. The book also discusses how a leader/manager can encourage the team or company to be innovative and original. It finally discusses about how as a parent or teacher you can encourage children to be more innovate. This blog post is about how as an individual, you can generate, recognize, voice and champion new ideas.
+In his book *Originals : How Non-Conformists Move The World*, Adam Grant talks about how everyone could be an original - how they can generate new ideas, how they can voice and champion them and also how one can manage their emotions when they deal with opposition. The book also discusses how a **leader/manager** can encourage the team or company to be innovative and original. It finally discusses about how as a **parent** or teacher you can encourage children to be more innovate. 
+
+This blog post is about how as an individual, you can **generate**, **recognize**, **voice** and **champion** new ideas.
 
 ### Generating and Recognizing New Ideas
 
