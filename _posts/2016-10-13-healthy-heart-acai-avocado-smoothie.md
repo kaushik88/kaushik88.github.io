@@ -19,7 +19,7 @@ thumbnail_path: blog/personal/avocadoAcaiSmoothie.JPG
 
 **Directions** <br/>
 
-Fill half the cup with swiss chard. Add the rest of the ingredients and fill to the line with coconut water. Blend with NutriBullet.
+Fill half the cup with swiss chard. Add the rest of the ingredients and fill to the line with coconut water. Blend with [NutriBullet](https://www.amazon.com/Bullet-NutriBullet-12-Piece-High-Speed-Blender/dp/B007TIE0GQ/ref=sr_1_1).
 
 **Note** <br/>
 
