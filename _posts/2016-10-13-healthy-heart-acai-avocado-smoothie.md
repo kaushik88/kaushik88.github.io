@@ -27,4 +27,6 @@ Fill half the cup with swiss chard. Add the rest of the ingredients and fill to 
 
 *Source - [Nutribullet Recipe Book](https://www.amazon.com/Nutribullet-Recipe-Book-Weight-Loss-Anti-Aging/dp/1502579995/ref=sr_1_1)*
 
+{% include figure.html path="blog/personal/avocadoAcaiSmoothie.JPG" alt="Avocado Acai Smoothie" %}
+
 P.S. - Still working on taking better pictures :D
