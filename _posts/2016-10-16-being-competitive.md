@@ -18,7 +18,7 @@ Consider the following 2 scenarios -
 
 **Scenario 2** - CompanyA and CompanyB are in the same industry/domain and are competing with each other for the highest market-share. They steal ideas from one another and would do anything to stay ahead of the competition. Rather than focusing on innovation and gaining a competitive edge, they run marketing ads criticizing, making fun and pulling each other down.
 
-Scenario 1 is healthy competition and Scenario 2 isn't. As Peter Thiel says in his book [Zero To One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1), such a competition means no profit for anybody and just a struggle for survival.
+Scenario 1 is healthy competition and Scenario 2 isn't. As Peter Thiel says in his book [Zero To One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1), unhealthy competition means no profit for anybody and just a struggle for survival.
 
 **You've Crossed the Line IF**
  
