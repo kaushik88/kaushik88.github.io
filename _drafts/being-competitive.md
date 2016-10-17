@@ -8,23 +8,23 @@ categories:
 thumbnail_path: blog/personal/competitive.jpg
 ---
 
-Some of us like to be competitive - we like to push ourselves, to give our 100% and to fight even on the brink of failure. In fact, I think competition has always been an integral part of human nature. It is what that makes us grow. However, when overdosed, it can take a toll on you (mentally) and lead to self-destruction. Also, at the other extreme, some people fear competition and don't want to be competitive. They think that being competitive means being aggressive and being obsessed about winning (and not losing). This blog post is my take on what it means to *be competitive* and when is it **not** ok to be competitive.
+Some of us like to be competitive - we like to push ourselves, to give our 100% and to fight even on the brink of failure. In fact, I think competition has always been an integral part of human nature. It is what makes us grow. However, when overdosed, it can take a toll on you mentally and lead to self-destruction. Also, on the other extreme, some people fear competition and don't want to be competitive. They think that being competitive means being aggressive and being obsessed about winning (and not losing). This blog post is my take on what it means to *be competitive* and when is it **not** ok to be competitive.
 
 {% include figure.html path="blog/personal/competitive.jpg" alt="Competitive" %}
 
 Consider the following 2 scenarios - 
 
-**Scenario 1** - Alice and Bob compete with each other in sports tournaments. They share their knowledge and learnings and push each other to get better. They **respect** one another in the sports arena and share a good laugh outside. One of the main reasons for each of their success is their competition. Tennis fans might think of Federer and Nadal as they read this.
+**Scenario 1** - Alice and Bob compete with each other in sports tournaments. They share their knowledge and learnings and push each other to get better. They **respect** one another in the sports arena and share a good laugh outside. They attribute one anothers' success to their rivalry. Tennis fans might think of Federer and Nadal as they read this.
 
 **Scenario 2** - CompanyA and CompanyB are in the same industry/domain and are competing with each other for the highest market-share. They steal ideas from one another and would do anything to stay ahead of the competition. Rather than focusing on innovation and gaining a competitive edge, they run marketing ads criticizing, making fun and pulling each other down.
 
-The first scenario is an example of a healthy competition. As Peter Thiel puts in his book [Zero To One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1), competition means no profit for anybody and just a struggle for survival.
+Scenario 1 is healthy competition and Scenario 2 isn't. As Peter Thiel says in his book [Zero To One](https://www.amazon.com/Zero-One-Notes-Startups-Future/dp/0804139296/ref=sr_1_1), such a competition means no profit for anybody and just a struggle for survival.
 
 **You've Crossed the Line IF**
  
-You've crossed the line from being competitive to being overly competitive if - 
+You're overly competitive if - 
 
-1. You mainly focus on **others** results and achievements.
+1. You mainly focus on **others'** results and achievements.
 2. You focus on the **end goal** and not the process.
 3. You **lie, scheme or hide** information to gain an unfair advantage.
 4. You get **jealous** when your friend succeeds.
