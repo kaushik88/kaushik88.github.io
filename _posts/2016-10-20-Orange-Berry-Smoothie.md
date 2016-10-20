@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Healthy Heart Acai, Avocado Smoothie"
+title: "Orange Berry Smoothie"
 tags:
 - Smoothie
 - NutriBullet
