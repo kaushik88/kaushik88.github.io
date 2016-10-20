@@ -29,3 +29,5 @@ Fill half the cup with Kale leaves. Add the rest of the ingredients and fill to 
 *Source - [Nutribullet Recipe Book](https://www.amazon.com/Nutribullet-Recipe-Book-Weight-Loss-Anti-Aging/dp/1502579995/ref=sr_1_1)*
 
 {% include figure.html path="blog/personal/orangeBerrySmoothie.JPG" alt="Orange Berry Smoothie" %}
+
+P.S. Pictures getting better from next week :)
