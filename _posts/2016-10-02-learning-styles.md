@@ -2,7 +2,7 @@
 layout: post
 title: "Learning Styles"
 tags:
-- Culture
+- Learn
 categories:
 - Learn
 thumbnail_path: blog/personal/learningStyle.jpg

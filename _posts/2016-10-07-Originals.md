@@ -2,7 +2,7 @@
 layout: post
 title: "Originals"
 tags:
-- Culture
+- Books
 categories:
 - Learn
 thumbnail_path: blog/personal/Originals.jpg
