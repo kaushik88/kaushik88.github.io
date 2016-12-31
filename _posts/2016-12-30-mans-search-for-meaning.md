@@ -28,7 +28,7 @@ Even under these conditions, there were men who walked through the huts comforti
 
 ### Suffering
 
-The final learning is about *suffering*. In the concentration camps, one of the inmates had a strange dream. He came to Viktor (a trained psychiatrist) and said - *"Doctor, I had a strange dream last night. A voice told me that if I wanted to know anything, I should ask and it would answer my question. I asked, when I would be free from the concentration camps and it said I would be free on March 30<sup>th</sup>". 
+The final learning is about *suffering*. In the concentration camps, one of the inmates had a strange dream. He came to Viktor (a trained psychiatrist) and said - *"Doctor, I had a strange dream last night. A voice told me that if I wanted to know anything, I should ask and it would answer my question. I asked, when I would be free from the concentration camps and it said I would be free on March 30<sup>th</sup>".*
 
 It was the first week of March then. As the date got closer to March 30<sup>th</sup>, it became evident that he wouldn't be freed from the concentration camp. On March 29<sup>th</sup>, he suddenly became ill and ran a high temperature. On March 30<sup>th</sup>, the day his prophecy had told him that the war and suffering would be over for him, he became delirious and lost consciousness. On March 31<sup>st</sup>, he was **dead**.
 
