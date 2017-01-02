@@ -14,7 +14,7 @@ A couple of years ago, I had dislocated my toe. I was in a considerable amount o
 2. Treatment - Put the bones where they need to be.
 3. Recovery - rest for a while before being back to normal.
 
-The process is straightforward and it also applies to our emotions too. We do a whole bunch of things to numb the emotional pain including alcohol, drugs, food, sex, relationships, money, work, caretaking, gambling, affairs, religion, shopping, planning, perfectionism, constant change and the internet. To make the list complete, there's always *staying busy*. 
+The process is straightforward and it also applies to our emotional pain too. We do a whole bunch of things to numb the emotional pain including alcohol, drugs, food, sex, relationships, money, work, caretaking, gambling, affairs, religion, shopping, planning, perfectionism, constant change and the internet. To make the list complete, there's always *staying busy*. 
 
 There are a couple of issues with this approach - 
 
