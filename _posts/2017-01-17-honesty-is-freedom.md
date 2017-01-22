@@ -29,6 +29,6 @@ One final note on withholding the truth - it is hard to be your authentic self. 
 
 This finally brings us to being open and honest. I also include *openness* here - The purpose of this to be direct with your communication and not hint at the truth. In the above situation, my parents not only told the truth but they involved me in the entire situation. I was involved in the monthly budget sessions and I believe this has made be a better person in handling money.
 
-> Honesty gives you the freedom to grow.
-> Honesty gives you the freedom to build stronger relationships.
-> Honesty enables you to stop hiding and be yourself.
+> Honesty gives you the freedom to grow. <br/>
+> Honesty gives you the freedom to build stronger relationships. <br/>
+> Honesty enables you to stop hiding and be yourself. <br/>
