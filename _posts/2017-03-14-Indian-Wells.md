@@ -32,11 +32,13 @@ I found the following things useful -
 
 3. Tee and shorts - Wear material that wicks sweat. It's really really hot here.
 
-4. A cloth - To cover any part of your body exposed to sun. Seriously, it's hot here.
+4. Sunscreen - It's really really really hot here.
 
-5. Water Bottle - Don't forget this!!
+5. A cloth - To cover any part of your body exposed to sun. Seriously, it's hot here.
 
-6. Battery Charger - To charge your mobile phone when you take a lot of photos/videos.
+6. Water Bottle - Don't forget this!! 
+
+7. Battery Charger - To charge your mobile phone when you take a lot of photos/videos.
 
 ### At the venue
 
