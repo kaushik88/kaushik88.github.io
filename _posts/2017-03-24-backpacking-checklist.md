@@ -31,6 +31,8 @@ A checklist on what to carry -
 17. Bio-Degradable Soap - We carried [these](https://www.rei.com/product/862429/sea-to-summit-wilderness-wash-soap-3-fl-oz).
 18. Hand Sanitizer, Toilet Paper and Face wipes.
 19. Water Filter - to filter water but we ended up directly drinking from the tap water in the campgrounds.
+20. Pocket Knife
+21. Cord - Comes in handy for a lot of things (hanging clothes or tying)
 
 ### Group Stuffs
 
