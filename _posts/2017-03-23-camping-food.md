@@ -8,7 +8,7 @@ categories:
 thumbnail_path: blog/personal/backpacking-food.jpg
 ---
 
-Food was one of my biggest hesitations in camping and backpacking. But after trying out some of the stuffs, I certainly believe you don't have to sacrifice on the food while backpacking or camping. This blog post is about what I liked or didn't like.
+Food was one of my biggest hesitations for camping or backpacking. But after trying out some of the stuffs, I believe you could have good food while you go backpacking. This blog post is about what I liked or didn't like.
 
 *Disclaimer - I'm vegetarian*
 
