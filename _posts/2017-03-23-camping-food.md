@@ -40,5 +40,5 @@ They're a little bland without the curry but passable. The best part is that you
 
 **Dislikes**
 
-1. [Channa Masala](https://www.rei.com/product/769060/backpackers-pantry-chana-masala-2-servings) - Meh. Some of us liked it thought.
+1. [Channa Masala](https://www.rei.com/product/769060/backpackers-pantry-chana-masala-2-servings) - Meh. Some of us liked it though.
 2. [Indian Vegetable Korma](https://www.rei.com/product/106096/good-to-go-indian-vegetable-korma-2-servings) - Really bland.
