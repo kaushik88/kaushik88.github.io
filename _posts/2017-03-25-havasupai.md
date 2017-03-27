@@ -60,8 +60,6 @@ We landed in Las Vegas and drove 2.5 hours to stay the [Hualapai Lodge](http://w
 
 6. **Food at the Campsites** - There's some food at the campsite. We had Hot Coco and Fries and they were both okay ish.
 
-{% include figure.html path="blog/personal/havasu-campsite.jpg" alt="Havasu Campsites" %}
-
 ### Day 1 - HillTop To Campground and Havasu Falls
 
 1. **Start Hiking Early** - We reached the hilltop around 6:30 and started hiking. We hiked mostly in the shade (except for the last 2 miles) and reached the campsites at around 1:30 (with a LOT of stops).
