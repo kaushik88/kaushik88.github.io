@@ -58,9 +58,9 @@ We landed in Las Vegas and drove 2.5 hours to stay the [Hualapai Lodge](http://w
 
 5. **Food at the Village** - There's a restaurant at the village and they have Omlettes for breakfast and Burgers for lunch (and some other stuffs too). You can avoid packing lunch for the first day and breakfast for the final day (they open at 7 AM). FYI, the omelette at the village was amazing. They also have a grocery store and it had most of the things you'd need (snacks, medicines, energy drinks etc). I couldn't find any camping items.
 
-{% include figure.html path="blog/personal/village-food.jpg" alt="Omlette At the Village" %}
-
 6. **Food at the Campsites** - There's some food at the campsite. We had Hot Coco and Fries and they were both okay ish.
+
+{% include figure.html path="blog/personal/havasu-campsite.jpg" alt="Havasu Campsites" %}
 
 ### Day 1 - HillTop To Campground and Havasu Falls
 
@@ -72,9 +72,9 @@ We landed in Las Vegas and drove 2.5 hours to stay the [Hualapai Lodge](http://w
 
 4. **Campsite** - Try to get to the campsite early as possible as it is reserved on a First-Come-First-Serve basis. Avoid the campsites at the front (too much crowd) or near the stream (too many mosquitoes). Another tip - the interior restrooms were better than the one at the front.
 
-{% include figure.html path="blog/personal/havasu-campsite.jpg" alt="Havasu Campsites" %}
-
 5. **Havasu Falls** - Once you setup the tents, try to head to the Havasu Falls. The hike to Mooney and Beaver falls would take up most parts of Day 2.
+
+{% include figure.html path="blog/personal/havasu-campsite.jpg" alt="Havasu Campsites" %}
 
 ### Day 2 - Mooney Falls and Hike to Beaver Falls
 
