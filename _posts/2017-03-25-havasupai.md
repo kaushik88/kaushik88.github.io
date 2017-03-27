@@ -90,4 +90,5 @@ We landed in Las Vegas and drove 2.5 hours to stay the [Hualapai Lodge](http://w
 
 2. **Carry Lots of water** - Roughly around 2L-3L of water for your hike back.
 
+Hoping to stay fit so that I can return sometime in the future!!
 {% include figure.html path="blog/personal/leaf.jpg" alt="Leaf near Mooney Falls" %}
