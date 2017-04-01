@@ -32,4 +32,4 @@ Why would we **want** pain? First, we should realize that no one goes through li
 
 A reward requires struggle. This is not another *No Pain, No Gain* mantra. It is not about grit or determination or a "Don't Quit" strategy. This is just another basic component of life!
 
-*source - The subtle art of not giving a f*ck by Mark Manson*
+*source - The subtle art of not giving a f\*ck by Mark Manson*
