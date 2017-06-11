@@ -23,7 +23,7 @@ Here are my rough numbers (again lots of generalization for the sake of simplici
 
 **Compound Interest** - I think this is where Compound Interest enters and does the magic. If you can invest roughly $20,000 a year (as opposed to $80,000 previously) and invest in something that would give you an 8% annual return approximately, then at the end of 30 years you would end up with roughly **$2.5 million dollars**. See the image below and this is the [Google Sheets link](https://docs.google.com/spreadsheets/d/1ZiNOIMkyn8ahEwOgq1s3SKewx0Enj8gK6BFqobRI284/edit?usp=sharing) to my Excel sheet if you want to copy it and tinker with it.
 
-{% include figure.html path="blog/personal/sheet.png" alt="Compound Interest" %}
+{% include figure.html path="blog/personal/sheet.png" alt="Compound Interest" caption="Google Sheets" url="https://docs.google.com/spreadsheets/d/1ZiNOIMkyn8ahEwOgq1s3SKewx0Enj8gK6BFqobRI284/edit?usp=sharing" %}
 
 *Does buying a house count as an investment?* <br/>
 As you need a house to stay till the end, the answer is a simple No.
