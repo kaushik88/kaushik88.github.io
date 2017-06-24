@@ -18,6 +18,8 @@ Energy doesn't mean the hyperactive caffeine energy but the ability to focus and
 
 **Exercise** - Exercising for even a few minutes a day or going for a walk outside are great energy boosters for me.
 
+**Good Conversation** - I'm usually an early sleeper but the few days I've managed to stay wide awake past midnight have mostly been due to good conversations.
+
 **Shopping** - Shopping is a huge energy killer for me. I've a lot of energy left after running for 10 kilometers than after shopping for 30 minutes.
 
 **People** - Energy is often contagious and you definitely do not want to be around people who're negative and energy suckers. You'd want to be the person who can spread the energy to the people around you.
