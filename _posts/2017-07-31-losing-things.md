@@ -20,7 +20,7 @@ We all lose things and we all have different ways of dealing with it. This blog 
 
 5. Buy a better alternative - Losing this object now gives me an opportunity to buy something better.
 
-6. Start saving money so that you can buy it again** - If I don't eat out for the next umpteen times, I'll be able to buy it again.
+6. Start saving money so that you can buy it again - If I don't eat out for the next umpteen times, I'll be able to buy it again.
 
 7. Listen to sad music - One of friends did this and it definitely helped him. If you're a Tamil music fan, [here's](https://www.youtube.com/watch?v=QS4R7hV-ntM) my recommendation.
 
