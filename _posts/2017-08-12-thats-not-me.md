@@ -16,4 +16,4 @@ The picture that Ned has painted for Arya is a pretty picture (for some) and it 
 
 {% include iframe-figure.html url="//www.youtube.com/embed/cve-FeN9etg" caption="That's Not Me" link="https://www.youtube.com/watch?v=cve-FeN9etg" %}
 
-We're all unique and have our own values. While it is easy to follow the crowd, it takes determination and courage to say *That's Not Me*.
+We're all unique and have our own values. While it is easy to follow the crowd, it takes determination and courage to stand-up for your values and say *That's Not Me*.
