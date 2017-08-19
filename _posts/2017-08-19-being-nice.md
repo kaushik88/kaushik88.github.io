@@ -26,4 +26,3 @@ It is common to see more of the latter (unfortunately) especially on social medi
 I've met very few jerks in person and a reason for this is that people are much nicer when you meet them than they're on social media. I could think of a few reasons - there's more time to think and you don't have to immediately wait for the response. However, I also feel social media is to be partially blamed here - you get more popular (re-tweets, follows, like, comments) when you trash-talk, criticize, blame or insult others.
 
 We definitely need products or networks that incentivizes people to be more tolerant and treat other with respect.
-
