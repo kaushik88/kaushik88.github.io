@@ -10,7 +10,7 @@ thumbnail_path: blog/personal/rockpaperscissors.jpg
 
 > If your friend fails, you feel bad. But if your friend succeeds (and you haven't), you feel worse.
 
-Although this statement appears in a [comedy movie](https://en.wikipedia.org/wiki/3_Idiots), there is some amount of truth to it. It is common human behavior to feel this way and it is even more prominent in a competitive environment. On my very first day at Google, we had a small exercise to fight this instinct.
+Despite being funny, there is some amount of truth to it. It is common human behavior to feel this way and it is even more prominent in a competitive environment. On my very first day at Google, we had a small exercise to fight this instinct.
 
 {% include figure.html path="blog/personal/rockpaperscissors.jpg" alt="Rock Paper Scissors" caption="Source" url="https://www.laserfiche.com/content/uploads/2016/01/shutterstock_284660570.jpg" %}
 
