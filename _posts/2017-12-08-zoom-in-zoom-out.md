@@ -12,7 +12,7 @@ Imagine having a DSLR camera to click a wide landscape photo. While you zoom in 
 
 {% include figure.html path="blog/personal/zoom-out.jpg" alt="Zoom Out" caption="Source" url="https://llandscapes-ee1.kxcdn.com/wp-content/uploads/2016/08/1-1-440x264.jpg" %}
 
-You first have to zoom in to detect, analyze and understand the problems. Zooming-in is important - it is what helps you understand your problems. However, in order to add perspective to your problem, it is important to zoom-out by asking yourself <br/> - 
+You first have to zoom in to detect, analyze and understand the problems. Zooming-in is important - it is what helps you understand your problems. However, in order to add perspective to your problem, it is important to zoom-out by asking yourself - <br/> 
 
 1. *Will I be thinking about this a week from now? How about a month or a year or 5 years?* <br/>
 2. You can also zoom out by looking back at the problems you've had in the past. 
