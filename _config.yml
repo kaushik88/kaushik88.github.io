@@ -60,7 +60,7 @@ highlighter: rouge
 timezone: 'America/Los_Angeles'
 
 # Plugins (GitHub Pages only support a few)
-gems:
+plugins:
   - jekyll-redirect-from
   - jekyll-sitemap
   - jekyll-paginate
