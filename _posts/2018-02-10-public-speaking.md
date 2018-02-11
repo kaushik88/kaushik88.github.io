@@ -8,11 +8,13 @@ categories:
 thumbnail_path: blog/personal/nervous-speaker-clip-art.gif
 ---
 
-An effective strategy to deal with any problem is to find the root cause of the problem and try to fix it with simple and easy solutions. In the book *Speaking up without Freaking out*, Matt Abrahams applies this strategy to *Public Speaking Anxiety* and discusses quick practical solutions that everyone can try. *It is worth noting that a little anxiety is a good thing - it tells us that we care about the situation. We just don't want too much of it that could ruin the moment.*
+An effective strategy to deal with any problem is to find the root cause of the problem and try to fix it with simple and easy solutions. In the book *Speaking up without Freaking out*, **Matt Abrahams** applies this strategy to Public Speaking Anxiety and discusses quick practical solutions that everyone can try. 
+
+> It is worth noting that a little anxiety is a good thing - it tells us that we care about the situation. We just don't want too much of it that could ruin the moment.
 
 {% include figure.html path="blog/personal/nervous-speaker-clip-art.gif" alt="Public Speaking Anxiety" caption="Source" url="http://www.infinitebusinesssolutions.com/wp-content/uploads/2015/08/nervous-speaker-clip-art.gif" %}
 
-Here are 5 reasons why we get anxious when presenting or speaking to an audience and a few tips to combat each of them - 
+Here are 5 reasons why we get anxious when presenting and a few tips to combat each of them - 
 
 ### 1. I don't have the skills
 
