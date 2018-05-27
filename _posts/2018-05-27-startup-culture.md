@@ -30,7 +30,7 @@ Rubrik, one of the fastest growing SaaS companies, have defined a set of cultura
 A side note on **hiring** - 
 
 1. Ask candidate talk about their background for 5 mins - you'll be surprised what you learn about the candidate.
-2. Understand what 'the best people' mean and set standards based on that - Most people don't understand what the best standards are.
+2. Understand what 'the best people' mean and set standards based on that - Most people don't understand what is a good engineer or sales or marketing person.
 3. Hire from connections - even meet people in person if you need them to respond to E-Mail / LinkedIn requests.
 
 *Source Greymatter podcast with Rubrik CEO Bipul Sinha*
