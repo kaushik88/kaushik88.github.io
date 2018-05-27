@@ -27,4 +27,10 @@ Rubrik, one of the fastest growing SaaS companies, have defined a set of cultura
 2. The Cost of Transparency - You would find someone leaking information or someone else unable to take honest feedback and this is the cost one has to bear for transparency.
 3. Anonymous Feedback in AllHands - Enables everyone (even introverts) to clear out the questions in their mind.
 
+A side note on **hiring** - 
+
+1. Ask candidate talk about their background for 5 mins - you'll be surprised what you learn about the candidate.
+2. Understand what 'the best people' mean and set standards based on that - Most people don't understand what the best standards are.
+3. Hire from connections - even meet people in person if you need them to respond to E-Mail / LinkedIn requests.
+
 *Source Greymatter podcast with Rubrik CEO Bipul Sinha*
