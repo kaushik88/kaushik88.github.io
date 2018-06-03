@@ -16,6 +16,8 @@ In discussing their company's market with Paul, Joe and Brian were uncomfortable
 
 While analyzing their customers, they found that their hosts were not good at taking photos of their homes. Brian and Joe contacted their hosts, introduced themselves as the founders of the company and told them that they would be willing to help by having a professional photographer take photos of their house. They bought a wide-angle lens and a DSLR and knocked the doors of their hosts in New York. While seeing the hosts struggle to use their perfectly designed website, they got their User Experience 101 lesson - they were able to understand the world from their customers point of view and this enabled them to change their point of view. Joe calls this **enlightened empathy.**
 
+{% include figure.html path="blog/personal/scale.jpg" alt="Do Things That Don't Scale" caption="Source" url="https://www.startupvitamins.com/products/startup-poster-do-things-that-dont-scale"%}
+
 They brought their insights back, made changes to their website and in a week saw their numbers double from $200 a week to $400 a week. This then snowballed and 9 years later AirBnB is currently valued at $31 Billion!
 
 *source - How I built this with Guy Raz*
