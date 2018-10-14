@@ -1,4 +1,4 @@
- ---
+---
 layout: post
 title: "A Guide To Inca Trail"
 tags:
