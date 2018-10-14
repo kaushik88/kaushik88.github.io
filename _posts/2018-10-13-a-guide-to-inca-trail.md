@@ -16,7 +16,7 @@ There are 2 seasons in Peru - the dry season (from May to July/August) and the w
 
 ### Trekking Operator
 
-The hiking permits for the trail are not directly sold by the Government - instead they are sold by registered tour operators (and there are so many of them). After reading the blog post on [Going Awesome Places](https://goingawesomeplaces.com/ultimate-machu-picchu-inca-trail-planning-guide/), we decided to go with **Alpaca Expeditions**. They were rated #1 on TripAdvisor and it's obvious - the planning, the service and the food were all awesome.
+The hiking permits for the trail are not directly sold by the Government - instead they are sold by registered tour operators (and there are so many of them). After reading the blog post on [Going Awesome Places](https://goingawesomeplaces.com/ultimate-machu-picchu-inca-trail-planning-guide/), we decided to go with [**Alpaca Expeditions**](https://www.alpacaexpeditions.com/). They were rated #1 on TripAdvisor and it's obvious - the planning, the service and the food were all awesome.
 
 ### The Challenges
 
