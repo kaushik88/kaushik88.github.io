@@ -77,8 +77,10 @@ There are plenty of places to visit while you acclimatize in Cusco -
 - Humantay Lake
 
 *3. To Huayna Picchu or not?*
-<Insert Image>
-Huayna Picchu is the mountain on the right :D If you're reasonably fit, I think it's doable (yes, even after 4 days of hiking). We played it safe and decided not to hike the Huayna Picchu - but 
+
+{% include figure.html path="blog/personal/MachuPicchu.jpg" alt="Machu Picchu" %}
+
+Huayna Picchu is the mountain on the right :D If you're reasonably fit, I think it's doable (yes, even after 4 days of hiking). We played it safe and decided not to hike the Huayna Picchu but in hindsight, I think we should have gone for this!
 
 ### Tips
 
