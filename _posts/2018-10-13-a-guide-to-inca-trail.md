@@ -12,11 +12,11 @@ The Inca trail is a popular trek in Peru, South America. The trail starts from K
 
 ### When To Go
 
-There are 2 seasons in Peru - the dry season (from May to July/August) and the wet season (from Dec to Feb/March). May to July is the peak season to hike the Inca trail and the hike permits run out roughly a year in advance. We went between the dry and the wet season in September - the weather was good (not too hot and didn't rain all the time) and I believe it was not as crowded as the peak season and we had to book roughly 7 months in advance.
+There are 2 seasons in Peru - the dry season (from May to July/August) and the wet season (from Dec to Feb/March). May to July is the peak season to hike the Inca trail and the hike permits run out roughly a year in advance. We went between the dry and the wet season in **September** - the weather was good (not too hot and didn't rain all the time) and I believe it was not as crowded as the peak season and we had to book roughly 7 months in advance.
 
 ### Trekking Operator
 
-The hiking permits for the trail are not directly sold by the Government - instead they are sold by registered tour operators (and there are so many of them). After reading the blog post on [Going Awesome Places](https://goingawesomeplaces.com/ultimate-machu-picchu-inca-trail-planning-guide/), we decided to go with Alpaca Expeditions. They were rated #1 on TripAdvisor and it's obvious - the planning, the service and the food were all awesome.
+The hiking permits for the trail are not directly sold by the Government - instead they are sold by registered tour operators (and there are so many of them). After reading the blog post on [Going Awesome Places](https://goingawesomeplaces.com/ultimate-machu-picchu-inca-trail-planning-guide/), we decided to go with **Alpaca Expeditions**. They were rated #1 on TripAdvisor and it's obvious - the planning, the service and the food were all awesome.
 
 ### The Challenges
 
