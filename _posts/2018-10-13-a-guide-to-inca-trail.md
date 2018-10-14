@@ -5,7 +5,7 @@ tags:
 - Backpacking
 categories:
 - Travel
-thumbnail_path: blog/personal/MachuPicchu.jpg
+thumbnail_path: blog/personal/machu-picchu-small.jpg
 ---
 
 The Inca trail is a popular trek in Peru, South America. The trail starts from KM 82 and ends in Machu Picchu. The trail is 26 miles long (43 km), has an elevation gain of roughly 4500 ft and is usually completed over 4 days and 3 nights. I hope this blog post serves as a useful resource for anyone planning this hike.
