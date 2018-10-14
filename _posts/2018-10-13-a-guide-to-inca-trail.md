@@ -1,6 +1,6 @@
  ---
 layout: post
-title: "A Guide To Inca Trail - Machu Picchu"
+title: "A Guide To Inca Trail"
 tags:
 - Backpacking
 categories:
