@@ -67,3 +67,5 @@ Inspired by this [post](https://blog.samaltman.com/the-days-are-long-but-the-dec
 26. Finally, this is your life. There's no one size fits all way to live. Don't try to be someone else.
 
 *The days are long but the years are short!*
+
+{% include figure.html path="blog/personal/30.png" alt="30"%}
