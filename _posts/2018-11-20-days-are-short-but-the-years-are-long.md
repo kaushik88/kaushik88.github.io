@@ -5,14 +5,14 @@ tags:
 - Birthdays
 categories:
 - Learn
-thumbnail_path: blog/personal/dayslong.jpg
+thumbnail_path: blog/personal/30.png
 ---
 
 My idea of *celebrating* birthdays have changed over the years. Previously, it meant being the center of attention - inviting lot of friends, cutting cake, answering phone calls, responding to wishes on Facebook and sharing things on social media. However, during the last few years it meant spending time with a few close friends and family and also some *alone* time to reflect on the year (it also helps that my birthday falls towards the end of the year). The days and weeks go by quickly and we're always focused on the short term. Birthdays are a great excuse to pause, think, reflect and look at the big picture.
 
 Inspired by this [post](https://blog.samaltman.com/the-days-are-long-but-the-decades-are-short), this blog post is about some of the things I believe in and mostly things I want to work or improve upon.
 
-{% include figure.html path="blog/personal/dayslong.jpg" alt="Days are long but years are short"%}
+{% include figure.html path="blog/personal/daysLong.png" alt="Days are long but years are short" caption="Source" url="https://i.pinimg.com/originals/29/c2/a8/29c2a8d037bc43ef5ada4b96cf9ac77c.png" %}
 
 1. Get to know yourself - the values you stand for, the things you're good at, things you're not, the kind of people you are comfortable being yourself, the kind of trips you like, the time of the day you're productive and the kind of work that makes you happy. (the list goes on)
 
@@ -67,5 +67,3 @@ Inspired by this [post](https://blog.samaltman.com/the-days-are-long-but-the-dec
 26. Finally, this is your life. There's no one size fits all way to live. Don't try to be someone else.
 
 *The days are long but the years are short!*
-
-{% include figure.html path="blog/personal/30.png" alt="30"%}
