@@ -8,7 +8,7 @@ categories:
 thumbnail_path: blog/personal/vahine.jpg
 ---
 
-My wife and I celebrated our first anniversary trip in French Polynesia (a group of islands south of Hawaii with Bora Bora being the most popular amongst them) after a recommendation from our friend. It is a collection of 118 islands and [atolls](https://en.wikipedia.org/wiki/Atoll) amongst which 67 are inhabited. As it is very expensive for most of us, planning a trip to French Polynesia is never easy but we were fortunate to have gotten help from a friend. The goal of this post is to do the same - if you're planning a trip or even considering going there, don't hesitate to reach out :D
+My wife and I celebrated our first anniversary trip in French Polynesia (a group of islands south of Hawaii with Bora Bora being the most popular amongst them) after a recommendation from our friend. It is a collection of 118 islands and [atolls](https://en.wikipedia.org/wiki/Atoll) amongst which 67 are inhabited. As it is very expensive for most of us, planning a trip to French Polynesia is never easy but we were fortunate to have gotten help from a friend. The goal of this post is to do the same - if you're planning a trip or even considering going there, don't hesitate to reach out :)
 
 For us, there are 3 main reasons to go to French Polynesia to celebrate your special occasion -
 
