@@ -21,9 +21,9 @@ For us, there are 3 main reasons to go to French Polynesia to celebrate your spe
 A few notes - 
 
 - Tahiti is the largest of the islands and also has an international airport (currently there are international flights from San Francisco, Los Angeles, Tokyo and Auckland).
-- Most of the people we met in French Polynesia were either on their honeymoon or celebrating their anniversary - the hospitality is one of the best here and they make your trip more even more special.
+- Most of the people we met in French Polynesia were either on their honeymoon or celebrating their anniversary - the hospitality is one of the best here and they make your trip even more special.
 - Moorea and Bora Bora are the most commonly visited islands followed by Taaha or Raiatea.
-- Everything is expensive here - tourism is the largest industry here.
+- Everything is expensive - tourism is the largest industry here.
 - Besides Moorea, you have to take an inter-island flight to visit any other islands. They are super fun and you get incredible views.
 - **Moorea** can be reached by a short 45 minute ferry from Tahiti. Besides the blue lagoons, Moorea is also known for the beauty of the island - lush green landscape and beautiful mountains.
 - **Bora Bora** is an exotic place mostly visited by couples famous for its over-water bungalows and crystal clear blue lagoon.
