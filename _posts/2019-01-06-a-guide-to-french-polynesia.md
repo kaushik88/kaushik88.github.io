@@ -13,7 +13,7 @@ My wife and I celebrated our first anniversary trip in French Polynesia (a group
 For us, there are 3 main reasons to go to French Polynesia to celebrate your special occasion -
 
 1. Nature - [Lagoons](https://www.google.com/search?q=bora+bora), Mountains, sunrises and sunsets - the best we've seen so far.
-2. Hospitality - hard to put a price to it.
+2. Hospitality.
 3. Privacy.
 
 {% include figure.html path="blog/personal/vahine.jpg" alt="Vahine Islands" caption="French Polynesia" %}
