@@ -6,3 +6,4 @@
 6. What to do when someone lies to you - Hold others to same standards as you! LOVE this.
 7. Time exists so that everything doesn't happen at once.
 8. Left out - JOMO.
+9. Boundaries: A Moving Target - We push others boundaries and our own. We don't know where they are as they vary.
