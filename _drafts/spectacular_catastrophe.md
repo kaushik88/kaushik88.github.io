@@ -7,3 +7,5 @@
 7. Time exists so that everything doesn't happen at once.
 8. Left out - JOMO.
 9. Boundaries: A Moving Target - We push others boundaries and our own. We don't know where they are as they vary.
+10. Cost of Admission - Regret is like poison and antidote rolled into 1 word. Hard to learn in life if you've no regrets. It is the cost we pay to get compassion.
+11. Don't chase the pain - PT doesn't directly address the pain. Address the cause.
