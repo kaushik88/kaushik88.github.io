@@ -16,7 +16,7 @@ I discussed this with my manager at that time and he said - *"Never admire (or b
 
 Over the next year or so, I started to get an idea of what he was trying to say by just observing the things he was trying to learn and the people he was looking up to. While he knew how to solve most of the problems, he was trying to figure which is the right problem to solve. This was the first time I understood the difference between knowledge and wisdom and over the last few years, I've figured out a few more differences from smart people around me.
 
-{% include figure.html path="blog/personal/knowledgewisdom.jpg" alt="Knowledge and Wisdom" caption="Knowledge vs Wisdom" %}
+{% include figure.html path="blog/personal/knowledgewisdom.jpg" alt="Knowledge and Wisdom" caption="Knowledge vs Wisdom" url="https://quotefancy.com/quote/1363085/Louise-Penny-The-four-sayings-that-lead-to-wisdom-I-was-wrong-I-m-sorry-I-don-t-know-I" %}
 
 - Knowledge gives you the points to talk in a group meeting. Wisdom tells you when to keep quiet.
 - Knowledge is knowing all the Machine Learning algorithms. Wisdom tells you when to apply what.
