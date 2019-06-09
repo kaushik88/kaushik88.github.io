@@ -20,6 +20,6 @@ Over the next year or so, I started to get an idea of what he was trying to say 
 
 - Knowledge gives you the points to talk in a group meeting. Wisdom tells you when to keep quiet.
 - Knowledge is knowing all the Machine Learning algorithms. Wisdom tells you when to apply what.
-- Knowledge is mostly acquired from books whereas wisdom is through experience.
+- Knowledge can make you arrogant. Wisdom teaches you to be humble and keep learning.
+- Knowledge is acquired from books whereas wisdom is through experience.
 - Knowledge is knowing the *what*. Wisdom teaches you the *why* and *when*.
- 
