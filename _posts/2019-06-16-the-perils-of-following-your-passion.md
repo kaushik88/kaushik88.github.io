@@ -2,7 +2,7 @@
 layout: post
 title: "The Perils of Following Your Passion"
 tags:
-- Tennis
+- Self
 categories:
 - Learn
 thumbnail_path: blog/personal/no-passion.png
