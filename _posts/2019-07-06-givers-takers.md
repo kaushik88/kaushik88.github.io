@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Takers"
+title: "Givers and Takers"
 tags:
 - books
 categories:
